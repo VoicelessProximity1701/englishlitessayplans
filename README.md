@@ -1,6 +1,8 @@
 # English Literature Plans - Macbeth + AIC
+
 This is a complete list of possible questions for English Literature essay questions for Macbeth and An Inspector Calls.
-## Macbeth 
+
+## Macbeth
 
 Example high level vocabulary:
 
@@ -34,6 +36,7 @@ Example high level vocabulary:
     Antithesis
 
 ---
+
 ### Starting with Act 1 Scene 2, how far does Shakespeare present Macbeth as a brave character?
 
 I. Introduction
@@ -87,7 +90,7 @@ I. Introduction
 
     Briefly introduce the play and the character of Macbeth
     Provide a brief overview of the question and the approach to be taken in the essay
-    State the thesis statement that will guide the argument in the essay 
+    State the thesis statement that will guide the argument in the essay
     Thesis statement: Shakespeare presents Macbeth as initially skeptical but ultimately consumed by the witches' prophecies, leading to his downfall.
 
 II. Macbeth's initial response to the witches' prophecies in Act 1 Scene 3
@@ -263,6 +266,7 @@ V. Conclusion
     Summarize the main points of the essay
     Reiterate the thesis that Shakespeare presents Macbeth's ambition as a corrupting influence
     Discuss the relevance of this theme in contemporary society and how it can be applied to real-life situations.
+
 ---
 
 ### Starting with Act 3 Scene 4, lines 93 to 107 and considering the entire play, to what extent does Shakespeare present Macbeth as remorseful for his actions?
@@ -301,6 +305,7 @@ V. Conclusion
 ---
 
 ### Starting with Act 4 Scene 1, when Macbeth visits the witches again for further information (lines 49-61) and considering the entire play, to what extent does Shakespeare present Macbeth as in control of his own fate?
+
 I. Introduction
 
     Briefly introduce the play and its context (i.e. when and where it was written, the main themes and characters)
@@ -335,7 +340,7 @@ V. Conclusion
 
 ---
 
-###  Starting with Act 5 Scene 3, when Macbeth discusses the reasons for his confidence in battle (lines 1-18) and considering the entire play, what does Shakespeare suggest are the reasons for Macbeth's downfall?
+### Starting with Act 5 Scene 3, when Macbeth discusses the reasons for his confidence in battle (lines 1-18) and considering the entire play, what does Shakespeare suggest are the reasons for Macbeth's downfall?
 
 I. Introduction:
 
@@ -370,10 +375,10 @@ V. Conclusion:
     Connect these reasons to the larger themes of the play, such as power, fate, and free will.
     Restate the thesis statement in a new way to provide a sense of closure to the essay.Example high level vocabulary:
     End with a thought-provoking statement that encourages the reader to consider the deeper meaning of the play.
+
 ---
 
-### Starting with Act 1 Scene 5, when Macbeth discusses the reasons for his confidence in battle (lines 14-29) and considering the entire play, to what extent does Shakespeare present Lady macbeth as a powerful character? 
-
+### Starting with Act 1 Scene 5, when Macbeth discusses the reasons for his confidence in battle (lines 14-29) and considering the entire play, to what extent does Shakespeare present Lady macbeth as a powerful character?
 
 Introduction:
 
@@ -448,6 +453,7 @@ Conclusion:
     End with a thought-provoking statement that encourages the reader to consider the importance of Macduff's character in the play.
 
 ---
+
 ### Starting with Act 2 Scene 1, when Banquo confirms his allegiance to King Duncan (lines 12-29) and considering the entire play, thow does Shakespeare present Banquo as a loyal character?
 
 Introduction:
@@ -488,6 +494,7 @@ Conclusion:
     Final analysis: Banquo's unwavering loyalty towards King Duncan and Macbeth serves as a foil to Macbeth's treachery, and ultimately highlights the themes of loyalty and betrayal in the play. Shakespeare uses Banquo's language, actions, and even his ghost to emphasize his loyalty, cementing him as a character of great importance in the play.
 
 ---
+
 ### Starting with Act 1 Scene 3, when the witches provide Macbeth with prophecies about his future (lines 36-59) and considering the entire play, how does Shakespeare present the witches as powerful forces?
 
 Introduction:
@@ -520,6 +527,7 @@ III. Shakespeare also presents the witches as powerful forces through their abil
     Analysis 1: The witches' famous line in Act 1 Scene 1 sets the tone for the entire play, highlighting the confusion and disorder that they bring with their presence. The inversion of the natural order and the blurring of lines between good and evil creates a sense of unease and uncertainty in both the characters and audience, further solidifying the witches' power as forces of chaos.
     Quote 2: "Double, double toil and trouble; fire burn and cauldron bubble." (4.1.10-11)
     Analysis 2: The witches' spell in Act 4 Scene 1 not only showcases their supernatural abilities, but also their ability to evoke fear and uncertainty through their actions. The ominous and cryptic nature of the spell creates a sense of unease in both the characters and the audience
+
 Conclusion
 
     Summarize the main points of the essay
@@ -528,7 +536,7 @@ Conclusion
 
 ---
 
-### Starting with Act 1 Scene 4, when Duncan is showing his gratitude to Macbeth for his service (lines 11-32) and considering the entire play, how does Shakespeare present Duncan as a good king? 
+### Starting with Act 1 Scene 4, when Duncan is showing his gratitude to Macbeth for his service (lines 11-32) and considering the entire play, how does Shakespeare present Duncan as a good king?
 
 Introduction:
 
@@ -566,7 +574,7 @@ Conclusion:
 
 ---
 
-### Starting with Act 4 Scene 3, when Malcolm is explaining why he pretended to be immoral to Macduff (lines 114-139) and considering the entire play, how does Shakespeare present Malcolm as a moral character? 
+### Starting with Act 4 Scene 3, when Malcolm is explaining why he pretended to be immoral to Macduff (lines 114-139) and considering the entire play, how does Shakespeare present Malcolm as a moral character?
 
 I. Introduction
 
@@ -721,7 +729,7 @@ IV. Paragraph 3: The relationship between Lady Macbeth and Macbeth
 
 ---
 
-### Starting with Act 2 Scene 2, when Lady Macbeth and Macbeth are dealing with the aftermath of Duncan's murder (lines 55-72) and considering the entire play, how does Shakespeare present the motif of blood? 
+### Starting with Act 2 Scene 2, when Lady Macbeth and Macbeth are dealing with the aftermath of Duncan's murder (lines 55-72) and considering the entire play, how does Shakespeare present the motif of blood?
 
 I. Introduction
 
@@ -798,5 +806,921 @@ V. Conclusion
     Summarize the main points of the essay, including the complex portrayal of Macbeth's sense of morality, the evolution of his moral compass throughout the play, and the role of Lady Macbeth in shaping his choices
     Restate the thesis statement and the broader implications of the essay's argument
     Provide a final reflection on the relevance of Macbeth's moral dilemma to contemporary audiences, and the enduring power of Shakespeare's exploration of this theme.
+
+---
+
+## An Inspector Calls
+
+---
+
+### How does Priestley use Mr Birling to present his ideas about employers' responsibility?
+
+I. Introduction
+
+    A. Overview of An Inspector Calls by JB Priestley
+    B. Introduction of Mr Birling
+    C. Explanation of Priestley's ideas about employers' responsibility
+    D. Thesis statement
+
+II. Body Paragraph 1
+
+    A. Thesis statement: Mr Birling's views on employers' responsibility
+    B. Quote: "If you don't come down sharply on some of these people, they'd soon be asking for the earth." (Act 1, page 10)
+    C. Analysis:
+
+    Mr Birling's dismissive attitude towards workers' rights
+    Use of hyperbole to exaggerate the threat posed by workers
+    D. Contextual links: The Great War and social unrest
+    E. Grade 9 points: The importance of social responsibility and the consequences of ignoring it
+
+III. Body Paragraph 2
+
+    A. Thesis statement: The Inspector's views on employers' responsibility
+    B. Quote: "We don't live alone. We are members of one body. We are responsible for each other." (Act 3, page 56)
+    C. Analysis:
+
+    The Inspector's belief in collective responsibility
+    Use of inclusive language to emphasize the interconnectedness of society
+    D. Contextual links: Priestley's socialist views and criticism of individualism
+    E. Grade 9 points: The dangers of ignoring social responsibility and the importance of working together for the greater good
+
+IV. Body Paragraph 3
+
+    A. Thesis statement: The consequences of Mr Birling's lack of responsibility
+    B. Quote: "The girl's dead and we all helped to kill her." (Act 3, page 56)
+    C. Analysis:
+
+    The Inspector's accusation of collective guilt
+    Use of metaphor to illustrate the gravity of the situation
+    D. Contextual links: The play's theme of social justice
+    E. Grade 9 points: The devastating effects of individual greed and irresponsibility on society
+
+V. Body Paragraph 4
+
+    A. Thesis statement: The Inspector as a voice of social justice
+    B. Quote: "We are all responsible for each other." (Act 3, page 56)
+    C. Analysis:
+
+    The Inspector's belief in social justice
+    Use of repetition to reinforce the idea of collective responsibility
+    D. Contextual links: The play's historical context and criticism of capitalist individualism
+    E. Grade 9 points: The importance of social justice in achieving a fair and equal society
+
+VI. Conclusion
+
+    A. Restate thesis statement
+    B. Summary of main points
+    C. Final thoughts on the significance of Priestley's message on employers' responsibility
+
+---
+
+### How does Priestley present Mrs Birling as a condescending character throughout An Inspector Calls?
+
+I. Introduction
+
+    A. Summarize the purpose of the essay
+    B. Thesis Statement: Throughout An Inspector Calls, JB Priestley presents Mrs Birling as a condescending character through her language, actions and treatment of other characters.
+
+II. Body Paragraph 1
+
+    A. Thesis Statement: Priestley portrays Mrs Birling as a condescending character through her use of dismissive language.
+    B. Quote: "I think Sheila and I better go into the drawing room and leave you men." (Act One, page 8)
+    C. Analysis: The use of "you men" by Mrs Birling shows her sense of superiority and highlights her condescending attitude towards others.
+    D. Contextual links: This quote demonstrates how Mrs Birling dismisses the men in the room, including her husband, showing her belief in her own superiority. Additionally, it reinforces the gender roles of the time period, with Mrs Birling believing herself to be above the men.
+
+III. Body Paragraph 2
+
+    A. Thesis Statement: Mrs Birling's actions throughout the play further demonstrate her condescending nature.
+    B. Quote: "I don't suppose for a moment that we can understand why the girl committed suicide." (Act Two, page 35)
+    C. Analysis: Mrs Birling's lack of empathy and understanding towards Eva Smith highlights her condescending attitude towards those she deems beneath her, and reinforces her belief in her own superiority.
+    D. Contextual links: This quote demonstrates Mrs Birling's complete lack of remorse or understanding of the situation, and reinforces her belief in her own superiority over others. It also reinforces the class divide present in the play, with Mrs Birling believing that the working class are inferior and unworthy of her time or attention.
+
+IV. Body Paragraph 3
+
+    A. Thesis Statement: The treatment of the Inspector by Mrs Birling further highlights her condescending nature.
+    B. Quote: "I think you must have been a little too hard on the young man, eh?" (Act Three, page 56)
+    C. Analysis: Mrs Birling's patronising tone and the use of "young man" when referring to the Inspector highlights her belief that he is beneath her, and reinforces her condescending attitude towards those she deems inferior.
+    D. Contextual links: This quote highlights the power dynamic between Mrs Birling and the Inspector, with Mrs Birling believing that she is above him and can manipulate the situation to her advantage. It also reinforces the class divide, with Mrs Birling believing that the Inspector is below her and therefore not worthy of her respect.
+
+V. Conclusion
+
+    A. Restate the thesis statement
+    B. Summarize the main points discussed in the body paragraphs
+    C. Provide a final insight on the character of Mrs Birling
+    D. Recommended Grade 9 points: This essay has effectively demonstrated how Priestley uses language, actions, and treatment of other characters to present Mrs Birling as a condescending character. It has also shown how this condescension reinforces the class divide present in the play, and reinforces the gender roles of the time period. Overall, this essay provides a nuanced understanding of Mrs Birling's character, and demonstrates how Priestley uses her to comment on the social issues of his time.
+
+---
+
+### How does Priestley use Sheila's change throughout the play to present his ideas?
+
+I. Introduction
+
+    A. Background information on the play and Priestley's intentions
+    B. Brief explanation of Sheila's character and her initial behavior
+    C. Thesis statement: By charting Sheila's transformation from a naive, self-centered young woman to a socially conscious advocate for change, Priestley presents the idea that individuals have the power to change and learn from their mistakes.
+
+II. Body Paragraph 1
+
+    A. Thesis statement: Sheila's initial behavior is characterized by her privilege and lack of awareness of social responsibility.
+    B. Quote 1: "Except for all last summer, when you never came near me, and I wondered what had happened to you." (Act 1, p. 5)
+    C. Analysis 1: Sheila's preoccupation with her own feelings and desires reveals her lack of concern for others.
+    D. Quote 2: "But these girls aren't cheap labor - they're people." (Act 3, p. 56)
+    E. Analysis 2: Sheila's realization that the factory workers are not just faceless laborers, but individuals with their own lives and feelings, demonstrates her growth and empathy.
+    F. Contextual link: Priestley's own socialist beliefs and critique of the class system in Britain.
+    G. Grade 9 point: Priestley presents Sheila's journey as a microcosm of the larger societal changes necessary to achieve social justice.
+
+III. Body Paragraph 2
+A. Thesis statement: Sheila's confrontation with her family's complicity in Eva Smith's suicide marks a turning point in her character development.
+B. Quote 1: "I know I'm to blame - and I'm desperately sorry." (Act 2, p. 34)
+C. Analysis 1: Sheila's acceptance of responsibility and remorse for her actions signals a shift in her priorities from self-interest to ethical accountability.
+D. Quote 2: "I'll never, never do it again to anybody." (Act 3, p. 56)
+E. Analysis 2: Sheila's commitment to making amends and using her privilege to help others shows her personal growth and sense of social responsibility.
+F. Contextual link: The play's critique of capitalist values and individualism.
+G. Grade 9 point: Priestley's use of Sheila's transformation as a means of advocating for a collective social consciousness.
+
+IV. Body Paragraph 3
+A. Thesis statement: Sheila's continued insistence on accountability and change sets her apart from her family members, highlighting the power of individual agency.
+B. Quote 1: "But don't forget I'm ashamed of you as well - yes both of you." (Act 3, p. 57)
+C. Analysis 1: Sheila's rejection of her family's attempts to dismiss their wrongdoing and avoid accountability shows her strength of character and her commitment to justice.
+D. Quote 2: "We all helped to kill her." (Act 3, p. 55)
+E. Analysis 2: Sheila's insistence that everyone take responsibility for their actions underscores the importance of individual accountability in achieving social change.
+F. Contextual link: Priestley's use of the inspector as a symbol of moral authority and social justice.
+G. Grade 9 point: Priestley's emphasis on the need for individuals to take responsibility for their actions and work towards collective change.
+
+---
+
+### How does Priestley use Gerald Croft's status to show his ideas about society?
+
+I. Introduction
+
+    A. Summary of the purpose of the essay
+    B. Thesis statement: In An Inspector Calls, Priestley uses the character of Gerald Croft to critique the social hierarchy of early 20th century England.
+
+II. Gerald's status in society
+
+    A. Thesis statement: Gerald's upper-class status is highlighted throughout the play.
+    B. Quote 1: "I belong to the [...] Crofts Limited" (Act 1, p. 8)
+    C. Analysis 1: Gerald's reference to his family's company reinforces his privileged position in society.
+    D. Quote 2: "I hate those hard-eyed dough-faced women" (Act 1, p. 10)
+    E. Analysis 2: Gerald's derogatory description of the working-class women shows his disregard for those of a lower social status.
+    F. Contextual link: Priestley criticizes the rigid class structure of society through Gerald's superiority complex.
+    G. Recommended grade 9 point: The way in which Gerald views the lower classes highlights the social divide that exists in early 20th century England.
+
+III. Gerald's relationship with Daisy Renton
+
+    A. Thesis statement: Gerald's affair with Daisy Renton reveals the hypocrisy of the upper classes.
+    B. Quote 1: "I was sorry for her. I thought she might make a fresh start" (Act 2, p. 32)
+    C. Analysis 1: Gerald's sympathy for Daisy Renton is insincere and highlights the exploitation of the vulnerable by the upper classes.
+    D. Quote 2: "She was young, pretty and warm-hearted" (Act 3, p. 56)
+    E. Analysis 2: Gerald objectifies Daisy Renton by describing her in terms of her physical attributes, further emphasizing the class and gender inequalities of the time.
+    F. Contextual link: Priestley uses Gerald's relationship with Daisy Renton to demonstrate the damaging effects of the upper class's power and privilege.
+    G. Recommended grade 9 point: The way in which Gerald views Daisy Renton as a mere object rather than a human being reflects the societal values and attitudes of early 20th century England.
+
+IV. Gerald's reaction to the Inspector's investigation
+
+    A. Thesis statement: Gerald's initial reaction to the Inspector's investigation highlights his desire to protect his own social standing.
+    B. Quote 1: "I don't come into this suicide business" (Act 2, p. 34)
+    C. Analysis 1: Gerald's disassociation from the Inspector's investigation shows his desire to distance himself from anything that may tarnish his reputation.
+    D. Quote 2: "Everything's alright now, Sheila. What about this ring?" (Act 3, p. 58)
+    E. Analysis 2: Gerald's attempt to distract Sheila from the Inspector's investigation highlights his desire to preserve the status quo, rather than confront the truth.
+    F. Contextual link: Priestley critiques the upper class's reluctance to acknowledge their own wrongdoings and their tendency to prioritize their own interests above all else.
+    G. Recommended grade 9 point: The way in which Gerald's response to the Inspector's investigation reflects the class divide and the privilege of the upper classes.
+
+V. Conclusion
+
+    A. Restate the thesis statement
+    B. Summarize the main points of the essay
+    C. Concluding statement: Through the character of Gerald Croft, Priestley exposes the flaws of early 20th century English society and highlights the need for social change.
+
+---
+
+### How important is the character of eric in demonstrating Priestley's ideas?
+
+I. Introduction
+
+    Briefly introduce the character of Eric and his role in the play
+    Provide background information on Priestley's ideas and their relevance to the play
+    State the thesis statement: Eric is a vital character in demonstrating Priestley's ideas as he serves as a representative of the younger generation and highlights the flaws of the older generation.
+
+II. Body Paragraph 1
+
+    Thesis statement: Eric represents the younger generation that Priestley believes will bring about change in society.
+    Quote 1: "Why shouldn't they try for higher wages? We try for the highest possible prices" (Act 1)
+    Analysis 1: Eric questions the capitalist mindset of his family and recognizes the need for fair wages for workers.
+    Quote 2: "You're not the kind of father a chap could go to when he's in trouble" (Act 3)
+    Analysis 2: Eric's strained relationship with his father reflects the generational divide and lack of communication between the older and younger generation.
+    Contextual link: Priestley believed that the younger generation would bring about a more equal and just society.
+
+III. Body Paragraph 2
+
+    Thesis statement: Eric's alcoholism reflects the moral decay of the upper class and highlights the consequences of their actions.
+    Quote 1: "I've been so busy at the works all day...I had a couple of drinks, and then I turned in here for a rest, and so I took a few more drinks" (Act 2)
+    Analysis 1: Eric's drinking is a coping mechanism for his feelings of helplessness and despair in the face of his family's immoral actions.
+    Quote 2: "I was in that state when a chap easily turns nasty" (Act 2)
+    Analysis 2: Eric's violent outburst towards his mother highlights the destructive nature of the upper class's behavior and its impact on the younger generation.
+    Contextual link: Priestley believed that the upper class's lack of empathy and responsibility would have severe consequences.
+
+IV. Body Paragraph 3
+
+    Thesis statement: Eric's transformation and redemption towards the end of the play symbolize Priestley's belief in the possibility of change and reform.
+    Quote 1: "You're beginning to pretend now that nothing's really happened at all...And I tell you - the time will soon come when, if men will not learn that lesson, then they will be taught it in fire and blood and anguish" (Act 3)
+    Analysis 1: Eric's impassioned speech highlights the urgency for change and the consequences of ignoring the issues facing society.
+    Quote 2: "I don't come into this suicide business" (Act 3)
+    Analysis 2: Eric's refusal to accept his family's attempts to sweep the truth under the rug shows his newfound sense of responsibility and integrity.
+    Contextual link: Priestley believed that change was possible if people took responsibility for their actions and worked towards a more just and equal society.
+
+V. Conclusion
+
+    Summarize the main points of the essay
+    Restate the thesis statement
+    Emphasize the importance of Eric's character in demonstrating Priestley's ideas and the relevance of these ideas in today's society.
+
+---
+
+### How does Priestley use the Inspector to suggests ways that society could be improved?
+
+I. Introduction
+
+    A. Briefly introduce the play An Inspector Calls by JB Priestley
+    B. Thesis statement: In An Inspector Calls, Priestley uses the character of the Inspector to suggest ways that society could be improved by promoting social responsibility and encouraging individuals to consider the impact of their actions on others.
+
+II. Body Paragraph 1
+
+    A. Thesis statement: The Inspector promotes social responsibility through his interactions with the characters in the play.
+    B. Quote 1: "We don't live alone. We are members of one body. We are responsible for each other" (Act 1).
+    C. Analysis 1: The Inspector emphasizes the interconnectedness of individuals in society and their responsibility to one another.
+    D. Quote 2: "Public men, Mr. Birling, have responsibilities as well as privileges" (Act 3).
+    E. Analysis 2: The Inspector challenges the notion that those in positions of power can ignore their social responsibilities.
+    F. Contextual link: The Inspector represents Priestley's socialist ideology that prioritizes the collective good over individual gain.
+    G. Recommended grade 9 points: The Inspector's message of social responsibility is a call for a more compassionate and empathetic society that considers the impact of their actions on others.
+
+III. Body Paragraph 2
+
+    A. Thesis statement: The Inspector encourages individuals to consider the impact of their actions on others.
+    B. Quote 1: "Each of you helped to kill her" (Act 3).
+    C. Analysis 1: The Inspector holds each character accountable for their role in Eva Smith's suicide and highlights the consequences of their actions on others.
+    D. Quote 2: "If men will not learn that lesson, then they will be taught it in fire and blood and anguish" (Act 3).
+    E. Analysis 2: The Inspector warns of the potential consequences of individuals' actions if they do not learn to be more responsible.
+    F. Contextual link: The Inspector's message aligns with Priestley's belief that individuals have a duty to consider the impact of their actions on society as a whole.
+    G. Recommended grade 9 points: The Inspector's message is a call for individuals to be more mindful of the impact of their actions and to take responsibility for their role in shaping society.
+
+IV. Body Paragraph 3
+
+    A. Thesis statement: The Inspector challenges the characters' and the audience's preconceptions and biases.
+    B. Quote 1: "We often do on the young ones. They're more impressionable" (Act 1).
+    C. Analysis 1: The Inspector suggests that the younger generation may be more open to change and more willing to take responsibility for their actions.
+    D. Quote 2: "One Eva Smith has gone - but there are millions and millions and millions of Eva Smiths and John Smiths" (Act 3).
+    E. Analysis 2: The Inspector highlights the systemic issues in society and challenges the characters' and the audience's beliefs that they are not responsible for these larger issues.
+    F. Contextual link: The Inspector's message reflects Priestley's belief that change is possible but requires a willingness to challenge one's own beliefs and biases.
+    G. Recommended grade 9 points: The Inspector's message challenges individuals to confront their own biases and preconceptions in order to effect meaningful change in society.
+
+V. Conclusion
+
+    A. Restate thesis statement: In An Inspector Calls, Priestley uses the character of the Inspector to suggest ways that society could be improved by promoting social responsibility and encouraging individuals to consider the impact of their actions on others.
+    B. Summarize main points of each body paragraph.
+    C. Concluding thoughts: Priestley's play serves as a powerful reminder that social responsibility and empathy are essential for creating a just and fair society
+
+---
+
+### How does Priestley use Eva Smith to represent poverty in An Inspector Calls?
+
+I. Introduction
+
+    Brief overview of the play
+    Thesis statement: How Priestley uses Eva Smith to represent poverty in the play
+
+II. Body Paragraph 1
+
+    Thesis statement: Eva Smith as a symbol of poverty in the play
+    Quote 1: "She was out of work for over two months before she found a job at Milwards" (Act 1)
+    Analysis of quote 1: Emphasizes the difficult economic situation for working-class women at the time
+    Quote 2: "She looked as if she had something to say -- something to tell him -- and that he was refusing to listen" (Act 2)
+    Analysis of quote 2: Shows how the upper classes ignore the struggles of the lower classes
+    Contextual link: The play is set in 1912, a time of great social inequality
+    Recommended grade 9 points: Understanding of the social context of the play and its relevance to contemporary issues of poverty and inequality
+
+III. Body Paragraph 2
+
+    Thesis statement: Eva Smith as a victim of exploitation
+    Quote 1: "We were paying the usual rates and if they didn't like those rates, they could go and work somewhere else" (Act 1)
+    Analysis of quote 1: Shows the disregard of the wealthy for the struggles of the poor
+    Quote 2: "She had been turned out of one job after another" (Act 1)
+    Analysis of quote 2: Shows how Eva is trapped in a cycle of poverty and exploitation
+    Contextual link: The play is set during the time of industrialization, when workers' rights were not protected
+    Recommended grade 9 points: Understanding of the themes of exploitation and social injustice in the play
+
+IV. Body Paragraph 3
+
+    Thesis statement: Eva Smith as a catalyst for change
+    Quote 1: "We don't live alone. We are members of one body. We are responsible for each other" (Act 3)
+    Analysis of quote 1: Shows the Inspector's message of collective responsibility
+    Quote 2: "And I tell you that the time will soon come when, if men will not learn that lesson, then they will be taught it in fire and blood and anguish" (Act 3)
+    Analysis of quote 2: Shows the dire consequences of not recognizing the suffering of the poor
+    Contextual link: Priestley was a socialist and believed in the importance of collective responsibility
+    Recommended grade 9 points: Understanding of the Inspector's message and its relevance to contemporary issues of poverty and social justice
+
+V. Conclusion
+
+    Recap of thesis statement and main points of the essay
+    Reflection on the importance of Eva Smith as a symbol of poverty in the play and its relevance to contemporary society
+
+---
+
+### How does Priestley show his ideas about gender inequality within An Inspector Calls?
+
+I. Introduction
+
+    Brief summary of An Inspector Calls
+    Thesis statement outlining how Priestley explores gender inequality in the play
+
+II. Body Paragraph 1
+
+    Thesis statement focusing on Sheila's experience with gender inequality
+    Quote 1: "But these girls aren’t cheap labour - they’re people" (Sheila, Act 1)
+    Analysis of the quote highlighting Sheila's awareness of the working conditions of women in the factory and her belief that they deserve better treatment
+    Quote 2: "I tell you – whoever that inspector was, it was anything but a joke" (Sheila, Act 3)
+    Analysis of the quote demonstrating how Sheila comes to understand the seriousness of the Inspector's investigation and the role that gender inequality played in Eva's tragic story
+    Contextual links: Discussion of the role of women in society during the early 20th century, including workplace discrimination and limited opportunities for education and social mobility
+    Recommended Grade 9 points: Analysis of Priestley's use of Sheila as a character who undergoes significant growth and change throughout the play, demonstrating the importance of recognizing gender inequality and advocating for change
+
+III. Body Paragraph 2
+
+    Thesis statement focusing on Mrs. Birling's views on gender roles and societal expectations
+    Quote 1: "Girls of that class –" (Mrs. Birling, Act 2)
+    Analysis of the quote highlighting Mrs. Birling's elitist views and her belief that women from lower classes are inferior and undeserving of respect or compassion
+    Quote 2: "I accept no blame for it at all" (Mrs. Birling, Act 3)
+    Analysis of the quote demonstrating Mrs. Birling's refusal to acknowledge her role in Eva's death and her lack of empathy for the struggles faced by working-class women
+    Contextual links: Discussion of the traditional gender roles and societal expectations that were prevalent during the early 20th century, including the belief that women should be submissive and deferential to men
+    Recommended Grade 9 points: Analysis of Priestley's use of Mrs. Birling as a foil to characters like Sheila and the Inspector, highlighting the dangers of rigid gender roles and the importance of challenging societal expectations in order to achieve true equality
+
+IV. Body Paragraph 3
+
+    Thesis statement focusing on the Inspector's treatment of male and female characters
+    Quote 1: "We are all responsible for each other" (Inspector, Act 3)
+    Analysis of the quote demonstrating the Inspector's belief in the interconnectedness of all members of society, regardless of gender
+    Quote 2: "And if I could help her now, I would" (Inspector, Act 3)
+    Analysis of the quote highlighting the Inspector's willingness to help Eva and his belief in the importance of extending compassion and support to those in need, regardless of their gender or social status
+    Contextual links: Discussion of the rise of feminist and egalitarian movements during the early 20th century and the impact of these movements on changing perceptions of gender roles and societal expectations
+    Recommended Grade 9 points: Analysis of Priestley's use of the Inspector as a moral authority who challenges traditional gender roles and advocates for a more equal and just society
+
+V. Conclusion
+
+    Recap of main points
+    Restatement of thesis and conclusion on how Priestley uses gender inequality to critique and suggest ways to improve society in An Inspector Calls.
+
+---
+
+### How successfully is the idea of responsibility explored in this play, through the use of the Inspector?
+
+I. Introduction
+
+    Introduce the play "An Inspector Calls" by JB Priestley
+    State the thesis statement that the play successfully explores the idea of responsibility through the use of the Inspector
+
+II. First Body Paragraph
+
+    Thesis statement that the Inspector uses Eva Smith's death to make the characters realize their responsibility
+    "We don't live alone. We are members of one body. We are responsible for each other" - Inspector (Act 3)
+    Analysis of the quote and how it highlights the Inspector's message of responsibility
+    Link to the social context of the play and how Priestley intended the Inspector to represent his own beliefs
+    Recommended grade 9 point: the Inspector serves as a moral compass, guiding the characters and the audience towards a better understanding of responsibility
+
+III. Second Body Paragraph
+
+    Thesis statement that the Inspector's interrogation techniques hold the characters accountable for their actions
+    "Each of you helped to kill her. Remember that. Never forget it" - Inspector (Act 3)
+    Analysis of the quote and how it emphasizes the Inspector's role in exposing the characters' culpability
+    Comparison to the Birlings' denial and lack of accountability
+    Recommended grade 9 point: the Inspector's relentless pursuit of the truth serves as a metaphor for the importance of taking responsibility in society
+
+IV. Third Body Paragraph
+
+    Thesis statement that the Inspector's final message reinforces the idea of responsibility and consequences
+    "And I tell you that the time will soon come when, if men will not learn that lesson, then they will be taught it in fire and blood and anguish" - Inspector (Act 3)
+    Analysis of the quote and how it suggests the dire consequences of ignoring responsibility
+    Contrast to the characters' lack of empathy and concern for others
+    Recommended grade 9 point: the Inspector's message of responsibility is not just about personal accountability, but also about the importance of social responsibility and collective action
+
+V. Conclusion
+
+    Summarize the main points of the essay and the importance of the Inspector's role in exploring the idea of responsibility
+    Restate the thesis statement and how it has been proven throughout the essay
+    Concluding sentence that highlights the relevance of the play's message in contemporary society.
+
+---
+
+### How successfully does Priestley present the different attitudes between the older and younger generations?
+
+I. Introduction
+
+    The purpose of the essay is to evaluate the success of Priestley's presentation of the different attitudes between the older and younger generations in An Inspector Calls
+    Brief summary of the play
+    Clear thesis statement: While Priestley highlights the contrast between the older and younger generations in An Inspector Calls, he ultimately suggests that the younger generation is more receptive to change and taking responsibility for their actions.
+
+II. Body Paragraph 1
+
+    Thesis statement: Priestley effectively presents the different attitudes between the older and younger generations through the character of Mr. Birling, who represents the older generation's traditional values and resistance to change.
+    Quote 1: "The way some of these cranks talk and write now, you'd think everybody has to look after everybody else, as if we were all mixed up together like bees in a hive" (Act 1).
+    Analysis 1: The use of the word "cranks" and the simile of "bees in a hive" shows Mr. Birling's disdain for socialist ideas and his belief in individualism.
+    Quote 2: "Probably a socialist or some sort of crank" (Act 1).
+    Analysis 2: Mr. Birling's dismissive attitude towards socialists and "cranks" reinforces his stubbornness and refusal to adapt to changing times.
+    Contextual links: Priestley uses Mr. Birling's character to represent the traditional values and attitudes of the older generation, who were resistant to change and progress. The use of the word "cranks" was a common term used to describe socialists in the early 20th century, highlighting Mr. Birling's outdated views.
+
+III. Body Paragraph 2
+
+    Thesis statement: Priestley also effectively presents the younger generation's more open-minded and responsible attitude through the character of Sheila, who initially displays immature behavior but ultimately accepts responsibility for her actions.
+    Quote 1: "I'll never let it happen again to anybody" (Act 3).
+    Analysis 1: Sheila's regret and willingness to change her behavior shows a sense of responsibility and maturity.
+    Quote 2: "But you said yourself, why doesn't Eric give us a break" (Act 2).
+    Analysis 2: Sheila's empathy towards Eric's struggles and her desire to give him a break shows her ability to understand others and be considerate, unlike her father and mother.
+    Contextual links: Sheila represents the younger generation's ability to learn from their mistakes and take responsibility for their actions, which is a key theme of the play. Priestley uses her character to contrast with the older generation's reluctance to change.
+
+IV. Body Paragraph 3
+
+    Thesis statement: Priestley also presents the idea of generational conflict through the character of Eric, who struggles to reconcile his own values with those of his parents.
+    Quote 1: "I don't see much nonsense about it when a girl's dead" (Act 3).
+    Analysis 1: Eric's criticism of his parents' lack of empathy towards Eva's death shows his disagreement with their values.
+    Quote 2: "You're not the kind of father a chap could go to when he's in trouble" (Act 3).
+    Analysis 2: Eric's lack of trust in his father and their relationship highlights the generational conflict between them.
+    Contextual links: Eric represents the younger generation's struggle to find their place in a society with outdated values and a resistance to change. Priestley uses his character to illustrate the difficulties faced by the younger generation when trying to reconcile their own values with those of their parents.
+
+V. Conclusion
+
+    Restate thesis statement
+    Recap of main points from body paragraphs
+
+---
+
+### How far do the upper classes abuse their status and power within society in An Inspector Calls?
+
+I. Introduction
+
+    A. Briefly introduce An Inspector Calls by JB Priestley
+    B. Define the concept of status and power within society
+    C. Thesis statement: Through the portrayal of the Birling family and Gerald Croft, Priestley successfully exposes the abuse of status and power within the upper classes of society in An Inspector Calls.
+
+II. The Birling Family's Abuse of Status and Power
+
+    A. Thesis statement: The Birling family's abuse of status and power is evident in their treatment of Eva Smith.
+    B. Quote 1: "But these girls aren't cheap labor. They're people." - Sheila Birling (Act 1)
+    C. Analysis 1: Sheila's statement highlights the Birling family's dismissive attitude towards the working class, viewing them as commodities rather than human beings.
+    D. Quote 2: "I don't play golf." - Mr. Birling (Act 1)
+    E. Analysis 2: Mr. Birling's statement highlights the elitist attitude of the upper classes, dismissing activities that are not deemed suitable for their status.
+    F. Contextual links: The attitude of the Birling family towards the working class is reflective of the attitudes prevalent during the Edwardian era.
+    G. Recommended grade 9 points: The Birling family's dismissive and elitist attitude towards the working class highlights Priestley's message that the upper classes abuse their status and power.
+
+III. Gerald Croft's Abuse of Status and Power
+
+    A. Thesis statement: Gerald Croft's abuse of status and power is evident in his treatment of Daisy Renton.
+    B. Quote 1: "I became at once the most important person in her life." - Gerald Croft (Act 2)
+    C. Analysis 1: Gerald's statement highlights his manipulative nature, taking advantage of Daisy's vulnerability to elevate his own status and power.
+    D. Quote 2: "And I hate to think how much he knows that we don't know yet." - Mrs. Birling (Act 2)
+    E. Analysis 2: Mrs. Birling's statement highlights the Birling family's willingness to use their status and power to suppress the truth, even if it means harming others.
+    F. Contextual links: The abuse of status and power by the upper classes is reflective of the social and economic hierarchy prevalent during the Edwardian era.
+    G. Recommended grade 9 points: Gerald Croft's manipulative and oppressive behavior towards Daisy Renton and the Birling family's willingness to suppress the truth highlight the abuse of status and power by the upper classes.
+
+IV. Counterargument: Positive Use of Status and Power
+
+    A. Thesis statement: While Priestley highlights the negative abuse of status and power, he also presents a positive use of status and power through the character of the Inspector.
+    B. Quote 1: "One Eva Smith has gone - but there are millions and millions of Eva Smiths and John Smiths still left with us" - Inspector Goole (Act 3)
+    C. Analysis 1: The Inspector's statement highlights his desire to use his position to bring about social change and to make the upper classes aware of their responsibility towards the lower classes.
+    D. Quote 2: "Public men, Mr. Birling, have responsibilities as well as privileges." - Inspector Goole (Act 3)
+    E. Analysis 2: The Inspector's statement highlights the message of social responsibility that Priestley seeks to convey, emphasizing that those in positions of power and status have a duty towards society.
+    F. Contextual links: The Inspector's message of social responsibility reflects the socialist beliefs prevalent during Priestley's time.
+    G. Recommended grade 9 points: The Inspector's positive use of status and power provides a counterargument to the negative uses the upper echelons of society employ with their power.
+
+---
+
+### How does Priestley present his ideas about social class within An Inspector Calls?
+
+I. Introduction
+
+    A. Brief overview of An Inspector Calls
+    B. Explanation of Priestley's purpose in exploring social class
+    C. Clear thesis statement
+
+II. The Working Class
+
+    A. Thesis statement about how Priestley presents the working class
+    B. Quote 1: "We are members of the same body" - Inspector (Act 1)
+    C. Analysis 1: Emphasis on collective responsibility and interconnectedness
+    D. Quote 2: "But these girls aren't cheap labour - they're people" - Sheila (Act 1)
+    E. Analysis 2: Acknowledgement of the working class as human beings, rather than just resources
+    F. Contextual link: The concept of 'deserving' and 'undeserving' poor
+    G. Recommended grade 9 point: Priestley's critique of capitalism and the dehumanization of the working class
+
+III. The Upper Class
+
+    A. Thesis statement about how Priestley presents the upper class
+    B. Quote 1: "We don't live alone. We are members of one body. We are responsible for each other" - Inspector (Act 3)
+    C. Analysis 1: Emphasis on collective responsibility and the hypocrisy of the upper class
+    D. Quote 2: "You're squiffy" - Eric (Act 2)
+    E. Analysis 2: Dismissive attitude towards the consequences of their actions
+    F. Contextual link: The attitudes and actions of the upper class towards the working class
+    G. Recommended grade 9 point: Priestley's condemnation of the upper class and their lack of empathy towards the working class
+
+IV. The Middle Class
+
+    A. Thesis statement about how Priestley presents the middle class
+    B. Quote 1: "I'm talking as a hard-headed, practical man of business" - Birling (Act 1)
+    C. Analysis 1: Emphasis on materialistic values and lack of empathy towards the working class
+    D. Quote 2: "It would be much better if Sheila didn't listen to this story at all" - Mrs. Birling (Act 2)
+    E. Analysis 2: Attempt to maintain the status quo and protect the reputation of the upper class
+    F. Contextual link: The intergenerational differences between the upper and middle class
+    G. Recommended grade 9 point: Priestley's critique of the middle class and their complicity in perpetuating social inequality
+
+V. Conclusion
+
+    A. Restate thesis statement
+    B. Summary of main points
+    C. Final thoughts on Priestley's exploration of social class in An Inspector Calls
+
+---
+
+### How does Priestley present the importance of guilt throughout An Inspector Calls?
+
+I. Introduction
+
+    Briefly introduce the play and its context
+    State the purpose of the essay: to explore Priestley's presentation of the importance of guilt in An Inspector Calls
+    Provide a clear thesis statement that is relevant and accurate to the question
+
+II. First Body Paragraph
+
+    Thesis statement: Priestley uses the character of Sheila to highlight the importance of guilt in the play.
+    Quote 1: "But these girls aren't cheap labour, they're people" (Act 1)
+    Analysis 1: Sheila's realization that the workers in her father's factory are people, not just cheap labor, shows her growing awareness of social responsibility and the impact of her actions on others.
+    Quote 2: "I'll never, never do it again to anybody" (Act 3)
+    Analysis 2: Sheila's expression of remorse and commitment to change her behavior suggests that guilt has a positive role in personal growth and moral development.
+    Contextual link: Priestley's socialist views, which emphasize the interconnectedness of individuals and the importance of social responsibility.
+    Grade 9 point: The importance of recognizing the humanity of others and the impact of our actions on them.
+
+III. Second Body Paragraph
+
+    Thesis statement: Priestley uses the Inspector to create a sense of guilt and responsibility in the characters and the audience.
+    Quote 1: "Each of you helped to kill her" (Act 3)
+    Analysis 1: The Inspector's accusation that all the characters share responsibility for Eva's death creates a sense of collective guilt and highlights the interconnectedness of individuals in society.
+    Quote 2: "Public men, Mr. Birling, have responsibilities as well as privileges" (Act 1)
+    Analysis 2: The Inspector's assertion that the upper class have a responsibility to society challenges Birling's capitalist views and emphasizes the importance of social responsibility.
+    Contextual link: Priestley's criticism of the capitalist class system and belief in the importance of collective responsibility.
+    Grade 9 point: The play's message that individuals cannot escape responsibility for their actions and that we must consider the impact of our behavior on others.
+
+IV. Third Body Paragraph
+
+    Thesis statement: Priestley uses the character of Eric to explore the destructive effects of guilt and the importance of taking responsibility for one's actions.
+    Quote 1: "My God! I'm not likely to forget" (Act 3)
+    Analysis 1: Eric's emotional breakdown and confession show the destructive effects of guilt and the importance of facing the consequences of one's actions.
+    Quote 2: "We don't live alone. We are members of one body" (Act 3)
+    Analysis 2: Eric's recognition of the interconnectedness of individuals and the importance of social responsibility reflects Priestley's socialist views.
+    Contextual link: Priestley's belief in the importance of personal responsibility and the interconnectedness of individuals in society.
+    Grade 9 point: The play's message that guilt can have both positive and negative effects, and that taking responsibility for one's actions is necessary for personal growth and social progress.
+
+V. Conclusion
+
+    Summarize the main points of the essay
+    Restate the thesis statement in a fresh way
+    Provide a concluding statement that reflects on the importance of guilt in An Inspector Calls and its relevance to contemporary society.
+
+---
+
+### How does Priestley use the opening stage directions to present the main ideas of An Inspector Calls?
+
+I. Introduction
+
+    Briefly introduce the play and its significance in literature
+    Provide background information about the playwright, JB Priestley
+    State the purpose of the essay
+    Formulate a clear and concise thesis statement that answers the question
+
+II. First Body Paragraph
+
+    Thesis statement: Priestley uses the opening stage directions to present the main themes and ideas of the play.
+    Quote 1: "The dining-room of a fairly large suburban house, belonging to a prosperous manufacturer" (Act 1)
+    Analysis 1: The opening stage directions immediately establish the setting of the play and the class of the characters. The use of "fairly large" and "prosperous" suggests wealth and privilege, which highlights the theme of social class.
+    Quote 2: "The lighting should be pink and intimate until the Inspector arrives, and then it should be brighter and harder" (Act 1)
+    Analysis 2: The change in lighting reflects the Inspector's arrival and the shift in tone from a cozy, comfortable atmosphere to a harsher, more confrontational one. This emphasizes the theme of responsibility and the idea that the characters' actions will have consequences.
+    Contextual links: Priestley's socialist beliefs and his desire to promote social change
+    Grade 9 points: The effective use of stage directions to establish key themes and create dramatic tension
+
+III. Second Body Paragraph
+
+    Thesis statement: Priestley uses the Inspector to challenge the characters' attitudes and beliefs.
+    Quote 1: "We don't live alone. We are members of one body. We are responsible for each other" (Act 3)
+    Analysis 1: The Inspector's speech emphasizes the importance of community and social responsibility. This challenges the characters' selfish attitudes and highlights the theme of collective guilt.
+    Quote 2: "You're not even sorry now, when you know what happened to her" (Act 2)
+    Analysis 2: The Inspector confronts the characters with their lack of remorse and encourages them to take responsibility for their actions. This reinforces the theme of guilt and the idea that everyone is accountable for their behavior.
+    Contextual links: Priestley's experiences in World War I and his belief in the need for social responsibility
+    Grade 9 points: The effective use of the Inspector as a tool for challenging the characters' attitudes and promoting Priestley's message
+
+IV. Third Body Paragraph
+
+    Thesis statement: Priestley uses dramatic irony to critique the characters' behavior.
+    Quote 1: "I'm talking as a hard-headed, practical man of business" (Act 1)
+    Analysis 1: Mr. Birling's claim to be a practical man is ironic, given his shortsightedness and lack of concern for others. This highlights the theme of social responsibility and the negative consequences of selfish behavior.
+    Quote 2: "We really must stop these silly pretences" (Act 2)
+    Analysis 2: Mrs. Birling's dismissal of the Inspector's investigation is ironic, given her later realization that her own actions contributed to Eva Smith's death. This reinforces the theme of guilt and the idea that everyone is connected.
+    Contextual links: Priestley's criticism of capitalist society and his belief in the need for social change
+    Grade 9 points: The effective use of dramatic irony to critique the characters' behavior and highlight the play's themes
+
+V. Conclusion
+
+    Summarize the main points made in the essay
+    Restate the thesis statement in different words
+    Provide a final thought or insight related to the question
+
+---
+
+### How does Priestley explore capitalist and socialist ideologies in An Inspector Calls?
+
+I. Introduction
+
+    A. Explanation of the question
+    B. Brief introduction to the play
+    C. Thesis statement: Priestley explores the contrast between capitalist and socialist ideologies in An Inspector Calls, highlighting the dangers of prioritizing profit over people.
+
+II. Capitalist Ideology
+
+    A. Thesis statement: Priestley criticizes the capitalist ideology through the character of Mr. Birling
+    B. Quote 1: "A man has to make his own way - has to look after himself" (Act 1)
+    C. Analysis of Quote 1: Highlighting Mr. Birling's focus on individual success and wealth
+    D. Quote 2: "Lower costs and higher prices" (Act 1)
+    E. Analysis of Quote 2: Explanation of Mr. Birling's capitalist beliefs, which prioritize profit over people
+    F. Contextual links: The rise of capitalism in the early 20th century, the effects of capitalist ideologies on society
+    G. Grade 9 Point: Priestley condemns the capitalist mindset that prioritizes profit over people, highlighting the dangers of greed and self-interest.
+
+III. Socialist Ideology
+
+    A. Thesis statement: Priestley advocates for socialist ideology through the character of Inspector Goole
+    B. Quote 1: "We don't live alone. We are members of one body. We are responsible for each other" (Act 3)
+    C. Analysis of Quote 1: Highlighting the Inspector's belief in the interconnectedness of society
+    D. Quote 2: "Public men, Mr. Birling, have responsibilities as well as privileges" (Act 3)
+    E. Analysis of Quote 2: Explanation of Inspector Goole's socialist beliefs, which prioritize social responsibility over individual success
+    F. Contextual links: The rise of socialist ideology in the early 20th century, the effects of socialist beliefs on society
+    G. Grade 9 Point: Priestley advocates for socialist values, emphasizing the importance of social responsibility and the interconnectedness of society.
+
+IV. Comparison and Contrast
+
+    A. Thesis statement: Priestley presents the contrast between capitalist and socialist ideologies to show the dangers of prioritizing profit over people
+    B. Quote 1: "It's what happened to her and what we all did to her that matters" (Act 3)
+    C. Analysis of Quote 1: Highlighting the Inspector's focus on social responsibility
+    D. Quote 2: "You're offering money at the wrong time, Mr. Birling" (Act 3)
+    E. Analysis of Quote 2: Explanation of Inspector Goole's rejection of capitalist values
+    F. Contextual links: The contrast between capitalist and socialist societies, the effects of prioritizing profit over people
+    G. Grade 9 Point: Priestley highlights the dangers of prioritizing profit over people and advocates for socialist values that prioritize social responsibility and the interconnectedness of society.
+
+V. Conclusion
+
+    A. Restate thesis statement
+    B. Summarize main points
+    C. Concluding thoughts: Priestley's exploration of capitalist and socialist ideologies highlights the dangers of prioritizing profit over people and advocates for the importance of social responsibility and the interconnectedness of society.
+
+---
+
+### How does Priestley use time to explore consequences in An Inspector Calls?
+
+I. Introduction
+
+    Provide background information on the play and the author
+    Briefly explain the relevance of the question
+    Thesis statement: Through his use of time, Priestley highlights the importance of acknowledging past actions and their consequences in An Inspector Calls.
+
+II. Body Paragraph 1
+
+    Thesis statement: Priestley uses the Inspector to disrupt the characters' sense of time, forcing them to confront the consequences of their past actions.
+    "We often do on the young ones. They're more impressionable." - Act 1 (page 10)
+    Analysis of the quote: This quote shows the Inspector's awareness of the effects of time on individuals, specifically the younger generation who are more likely to be influenced by the actions of their elders. The use of the word "impressionable" suggests that the Inspector believes that the younger generation can be swayed to change their behavior and take responsibility for their actions.
+    Contextual links: The use of the word "impressionable" reflects Priestley's belief in the potential for social change, and his belief that the younger generation can be a force for positive change.
+    Recommended grade 9 points: The use of dramatic irony in this scene highlights the Inspector's knowledge of events that the other characters are unaware of, and emphasizes the importance of confronting the past in order to create a better future.
+
+III. Body Paragraph 2
+
+    Thesis statement: Priestley uses the motif of the clock to symbolize the inevitability of time and the consequences of past actions.
+    "Public men, Mr. Birling, have responsibilities as well as privileges." - Act 3 (page 56)
+    Analysis of the quote: This quote, spoken by the Inspector, highlights the idea that actions have consequences, and that those in positions of power have a responsibility to act in the best interests of society as a whole. The use of the word "responsibilities" suggests that the Inspector believes that those with power should be held accountable for their actions, regardless of their status in society.
+    Contextual links: The motif of the clock is used throughout the play to symbolize the passage of time and the inevitability of the future. This emphasizes the idea that actions have consequences, and that the characters must confront their past actions in order to shape their future.
+    Recommended grade 9 points: The use of the clock as a symbol of time emphasizes the idea that the consequences of our actions are inescapable, and that we must confront the past in order to shape our future.
+
+IV. Body Paragraph 3
+
+    Thesis statement: Priestley uses the ending of the play to emphasize the importance of taking responsibility for past actions.
+    "We are all responsible for each other." - Act 3 (page 56)
+    Analysis of the quote: This quote, spoken by the Inspector, highlights the idea that society is interconnected, and that the actions of one person can have a significant impact on others. The use of the word "responsible" emphasizes the idea that individuals must take responsibility for their actions, regardless of their status or position in society.
+    Contextual links: The use of the word "responsible" reflects Priestley's socialist beliefs, and his belief in the importance of social responsibility.
+    Recommended grade 9 points: The ending of the play emphasizes the idea that the characters must take responsibility for their past actions, and that the consequences of those actions will shape their future.
+
+V. Conclusion
+
+    Summarize the main points of the essay
+    Restate the thesis statement
+    Concluding statement: Through his use of time, Priestley emphasizes the importance of acknowledging past actions and their consequences, and highlights the need for social responsibility and accountability.
+
+---
+
+### How does Priestley use honesty and truth to explore character development within An Inspector Calls?
+
+I. Introduction
+A. Background information on the play
+B. Brief summary of how honesty and truth are used in the play
+C. Thesis statement
+
+II. First Body Paragraph
+
+    A. Thesis statement: Priestley uses honesty and truth to reveal the true nature of the characters.
+    B. Quote
+    "We don't live alone. We are members of one body. We are responsible for each other" (Act 3)
+    C. Analysis
+    The Inspector's statement highlights the importance of social responsibility and the need to be truthful in order to achieve this.
+    The Inspector's questioning and revelations expose the lies and deceitfulness of the characters, revealing their true selves.
+    D. Contextual links
+    Priestley's socialist beliefs emphasize the importance of honesty and truth as foundations for a fair and just society.
+    The play is set in 1912, a time when the truth was often ignored or distorted to maintain the status quo.
+    E. Recommended grade 9 points
+    The use of dramatic irony adds tension to the play as the audience sees the characters' true nature before they do.
+    The character development through truth and honesty shows the consequences of their actions and the potential for redemption.
+
+III. Second Body Paragraph
+
+    A. Thesis statement
+    Priestley uses the theme of honesty and truth to challenge the characters' beliefs and values, leading to their personal growth.
+    B. Quote
+    "I'm ashamed of you as well - yes both of you" (Act 3)
+    C. Analysis
+    Sheila's statement shows her growth from a selfish and naive character to one who understands the importance of social responsibility and accountability.
+    The Inspector's questioning forces the characters to confront the truth about themselves and their actions, leading to self-reflection and personal growth.
+    D. Contextual links
+    Priestley's socialist beliefs emphasize the need for individuals to recognize their responsibility to society and strive for personal growth.
+    The play is set in a time of social change and upheaval, where traditional values and beliefs were being questioned.
+    E. Recommended grade 9 points
+    The use of stage directions and setting highlight the characters' emotional states and reflect their personal growth.
+    Priestley's use of repetition and foreshadowing emphasizes the importance of honesty and truth throughout the play.
+
+IV. Third Body Paragraph
+
+    A. Thesis statement
+    Priestley uses honesty and truth to create a sense of moral responsibility and accountability within the play.
+    B. Quote
+    "One Eva Smith has gone - but there are millions and millions of Eva Smiths and John Smiths still left with us" (Act 3)
+    C. Analysis
+    The Inspector's final speech highlights the play's central message of social responsibility and the need for honesty and truth in creating a fair and just society.
+    The use of the plural "millions and millions" emphasizes the scale of the problem and the need for collective action.
+    D. Contextual links
+    Priestley's socialist beliefs emphasize the importance of social responsibility and the need for collective action to achieve a fair and just society.
+    The play is set in a time of social change and upheaval, where traditional values and beliefs were being questioned.
+    E. Recommended grade 9 points
+    The use of symbolism and metaphor, such as the Inspector's absence, highlights the consequences of ignoring social responsibility and the importance of honesty and truth in preventing them.
+    The play's ambiguous ending emphasizes the need for individuals to take responsibility for their actions and work towards creating a better society.
+
+V. Conclusion
+
+    A. Restate thesis
+    B. Summarize main points
+
+---
+
+### How does Priestley explore different attitudes towards accountability in An Inspector Calls?
+
+I. Introduction
+
+    Briefly introduce An Inspector Calls by JB Priestley and the concept of accountability
+    Provide a clear thesis statement that answers the question and outlines the main points to be discussed
+
+II. Body Paragraph 1
+
+    Thesis statement: Priestley explores the theme of accountability through the character of Arthur Birling and his attitude towards responsibility.
+    Quote 1: "I can’t accept any responsibility. If we were all responsible for everything that happened to everybody we’d had anything to do with, it would be very awkward, wouldn’t it?" (Act 1)
+    Analysis 1: Arthur Birling's statement shows his reluctance to take accountability for his actions and highlights the selfishness of the upper classes. The use of rhetorical questions emphasizes Birling's lack of understanding of the consequences of his actions.
+    Quote 2: "There are a lot of young women living that sort of existence, Miss Birling, in every city and big town in this country." (Act 2)
+    Analysis 2: The Inspector's response to Birling's attitude towards responsibility shows that Priestley is using the character to critique the upper class's apathy towards the lower classes. The use of the collective noun "we" highlights the Inspector's belief in shared accountability.
+
+Contextual links:
+
+    Capitalism and the belief in individualism during the Edwardian era
+
+Recommended grade 9 points:
+
+    The use of contrasting attitudes towards accountability to highlight the theme
+    The character of Arthur Birling as a symbol of the upper classes' lack of accountability
+
+III. Body Paragraph 2
+
+    Thesis statement: Priestley also explores the theme of accountability through the character of Sheila Birling and her journey towards understanding her role in Eva Smith's suicide.
+    Quote 1: "But these girls aren’t cheap labour – they’re people." (Act 1)
+    Analysis 1: Sheila Birling's statement shows her early realization that the lower classes deserve respect and highlights her empathy towards them. The use of the word "people" emphasizes that everyone deserves accountability and responsibility.
+    Quote 2: "I suppose we’re all nice people now." (Act 3)
+    Analysis 2: Sheila's final statement shows her development towards understanding her role in Eva's death and her acceptance of accountability. The use of the word "nice" emphasizes that accountability goes beyond just being a good person and requires active change.
+
+Contextual links:
+
+    The changing attitudes towards women's rights and social justice during the early 20th century
+
+Recommended grade 9 points:
+
+    The use of character development to highlight the theme of accountability
+    The character of Sheila Birling as a symbol of the changing attitudes towards accountability
+
+IV. Body Paragraph 3
+
+    Thesis statement: Priestley also explores the theme of accountability through the character of Eric Birling and his journey towards understanding his own actions.
+    Quote 1: "My God! I’m not likely to forget." (Act 3)
+    Analysis 1: Eric Birling's statement shows his understanding of the consequences of his actions and highlights his acceptance of accountability. The use of the interjection "My God!" emphasizes the severity of his realization.
+    Quote 2: "You’re beginning to pretend now that nothing much has happened." (Act 3)
+    Analysis 2: Eric's statement to his family shows his frustration towards their lack of accountability and highlights the importance of taking responsibility for one's actions.
+
+Contextual links:
+
+    The changing attitudes towards mental health and addiction during the early 20th century
+
+Recommended grade 9 points:
+
+    The use of character development to highlight the theme of accountability
+    The character of Eric Birling as a symbol of change
+
+---
+
+### How does Priestley show that tension is at the heart of the Birling family?
+
+I. Introduction
+
+    A. General introduction to the play and the Birling family
+    B. Brief overview of the importance of tension in the play
+    C. Thesis statement outlining how Priestley portrays tension as being at the heart of the Birling family
+
+II. Body Paragraph 1 - The family's treatment of Eva Smith
+
+    A. Thesis statement outlining how the family's differing attitudes towards Eva Smith create tension
+    B. Quote 1 from the play, showing tension between Mr. Birling and Sheila regarding Eva Smith
+    C. Analysis of Quote 1, highlighting key words and phrases and literary techniques used to create tension
+    D. Quote 2 from the play, showing tension between Mrs. Birling and Eric regarding Eva Smith
+    E. Analysis of Quote 2, highlighting key words and phrases and literary techniques used to create tension
+    F. Contextual links to Priestley's views on social responsibility and the treatment of the working class
+
+III. Body Paragraph 2 - The family's conflicting beliefs and values
+
+    A. Thesis statement outlining how the family's conflicting beliefs and values create tension
+    B. Quote 1 from the play, showing tension between Mr. and Mrs. Birling regarding the engagement
+    C. Analysis of Quote 1, highlighting key words and phrases and literary techniques used to create tension
+    D. Quote 2 from the play, showing tension between Sheila and Gerald regarding their relationship
+    E. Analysis of Quote 2, highlighting key words and phrases and literary techniques used to create tension
+    F. Contextual links to Priestley's views on social class and gender roles
+
+IV. Body Paragraph 3 - The family's reaction to the Inspector's questioning
+
+    A. Thesis statement outlining how the family's reactions to the Inspector's questioning create tension
+    B. Quote 1 from the play, showing tension between Mr. Birling and the Inspector
+    C. Analysis of Quote 1, highlighting key words and phrases and literary techniques used to create tension
+    D. Quote 2 from the play, showing tension between the family members and the Inspector
+    E. Analysis of Quote 2, highlighting key words and phrases and literary techniques used to create tension
+    F. Contextual links to Priestley's views on power and responsibility
+
+V. Conclusion
+
+    A. Restate thesis statement
+    B. Summarize main points from body paragraphs
+    C. Concluding thoughts on the significance of tension in the play and its impact on the Birling family
+
+---
+
+### How does Priestley use the setting in An Inspector Calls to convey his ideas to the audience and to contribute to the effectiveness of the drama?
+
+I. Introduction
+
+    Briefly introduce the play and its setting
+    Thesis statement: Priestley effectively uses the setting in An Inspector Calls to convey his ideas to the audience and contribute to the effectiveness of the drama.
+
+II. Body Paragraph 1
+
+    Thesis statement: The setting of the Birling family's luxurious house reflects their social class and the superficiality of their values.
+    Quote 1: "It's exactly the same port your father gets" (Act 1)
+    Analysis 1: The setting of the luxurious house highlights the Birlings' social status and their desire to maintain it, which is further emphasized by the focus on trivial matters such as the port.
+    Quote 2: "But these girls aren't cheap labour - they're people" (Act 3)
+    Analysis 2: The Inspector's comment on the workers' status in society highlights the Birling family's lack of concern for the lower classes, which is contrasted with the grandeur of their home.
+
+Contextual link: Priestley's socialist views and critique of capitalism are reflected in the setting's depiction of the Birlings' wealth and privilege.
+
+III. Body Paragraph 2
+
+    Thesis statement: The setting of the play's time period enhances the exploration of the play's themes of responsibility and consequence.
+    Quote 1: "The Titanic sails next week" (Act 1)
+    Analysis 1: The reference to the Titanic's sinking foreshadows the upcoming tragedy of Eva's death, emphasizing the theme of consequence.
+    Quote 2: "Public men, Mr. Birling, have responsibilities as well as privileges" (Act 3)
+    Analysis 2: The Inspector's comments on responsibility are reinforced by the setting's historical context of pre-World War I England, where the failures of public figures led to catastrophic consequences.
+
+Contextual link: Priestley's experiences in World War I and his belief in social responsibility influenced his exploration of these themes in the play.
+
+IV. Body Paragraph 3
+
+    Thesis statement: The use of the single, timeless setting contributes to the play's tension and suspense.
+    Quote 1: "I don't understand about you" (Act 1)
+    Analysis 1: The limited physical space of the setting creates a sense of claustrophobia, increasing tension between the characters.
+    Quote 2: "And I tell you that the time will soon come when, if men will not learn that lesson, then they will be taught it in fire and blood and anguish" (Act 3)
+    Analysis 2: The Inspector's warning about the consequences of not learning from their mistakes is amplified by the play's setting, as it conveys a sense of inevitability and impending doom.
+
+Contextual link: Priestley's use of a single setting reflects the concept of the "well-made play" of the time period, but also contributes to the play's message about the dangers of complacency and lack of accountability.
+
+V. Conclusion
+
+    Summarize the main points made in the essay
+    Restate the thesis and its significance in the play
+    Concluding thoughts on the effectiveness of Priestley's use of setting in An Inspector Calls.
 
 ---
