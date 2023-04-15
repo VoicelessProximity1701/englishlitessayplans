@@ -17,6 +17,19 @@ Example high level vocabulary:
     Dichotomy
     Hubris
     Nemesis
+    Manipulation
+    Power
+    Agency
+    Patriarchal
+    Gender roles
+    Imageries
+    Persuasive language
+    Conscience
+    Morality
+    Characterization
+    Foreshadowing
+    Subversion
+    Antithesis
 
 ---
 ### Starting with Act 1 Scene 2, how far does Shakespeare present Macbeth as a brave character?
@@ -355,3 +368,41 @@ V. Conclusion:
     Connect these reasons to the larger themes of the play, such as power, fate, and free will.
     Restate the thesis statement in a new way to provide a sense of closure to the essay.Example high level vocabulary:
     End with a thought-provoking statement that encourages the reader to consider the deeper meaning of the play.
+---
+
+### Starting with Act 1 Scene 5, when Macbeth discusses the reasons for his confidence in battle (lines 14-29) and considering the entire play, to what extent does Shakespeare present Lady macbeth as a powerful character? 
+
+
+Introduction:
+
+    Introduce the play Macbeth and give context to Act 1 Scene 5.
+    Provide a brief overview of Lady Macbeth's character and how she is portrayed throughout the play.
+    Thesis statement: Shakespeare presents Lady Macbeth as a powerful character through her manipulation of Macbeth, her disregard for societal norms, and her use of language.
+
+I. Lady Macbeth's manipulation of Macbeth
+
+    Begin with the extract given, Act 1 Scene 5, lines 14-29, where Lady Macbeth reads Macbeth's letter and decides to manipulate him into killing Duncan.
+    Analyze Lady Macbeth's language and tone, specifically her use of imperatives and rhetorical questions.
+    Connect Lady Macbeth's manipulation of Macbeth to her later actions in the play, such as her participation in the murder of Duncan and her encouragement of Macbeth's subsequent murders.
+    Thesis statement: Lady Macbeth's manipulation of Macbeth is a demonstration of her power and influence over him.
+
+II. Lady Macbeth's disregard for societal norms
+
+    Discuss Lady Macbeth's rejection of traditional gender roles and expectations, as demonstrated in her soliloquy in Act 1 Scene 5.
+    Analyze Lady Macbeth's language and tone, specifically her use of imagery and metaphor.
+    Connect Lady Macbeth's rejection of societal norms to her later actions in the play, such as her involvement in the murder of Duncan and her eventual descent into madness.
+    Thesis statement: Lady Macbeth's rejection of societal norms is a demonstration of her power and agency in a patriarchal society.
+
+III. Lady Macbeth's use of language
+
+    Analyze Lady Macbeth's language throughout the play, specifically her use of persuasive language and manipulation tactics.
+    Discuss the effect of Lady Macbeth's language on Macbeth, specifically how it convinces him to act against his own conscience.
+    Connect Lady Macbeth's use of language to her portrayal as a powerful character, specifically how it allows her to exert control over Macbeth and advance her own ambitions.
+    Thesis statement: Lady Macbeth's use of language is a demonstration of her power and influence over Macbeth.
+
+Conclusion:
+
+    Summarize the main points made in the essay, specifically the ways in which Lady Macbeth is portrayed as a powerful character through her manipulation of Macbeth, her disregard for societal norms, and her use of language.
+    Connect these portrayals to the larger themes of the play, such as power, gender, and morality.
+    Restate the thesis statement in a new way to provide a sense of closure to the essay.
+    End with a thought-provoking statement that encourages the reader to consider the deeper meaning of Lady Macbeth's character.
