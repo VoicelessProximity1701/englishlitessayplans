@@ -1,4 +1,23 @@
 ## Macbeth 
+
+Example high level vocabulary:
+
+    Ambition
+    Prophecy
+    Supernatural
+    Tragic flaw
+    Isolation
+    Paranoia
+    Guilt
+    Descent into madness
+    Metaphor
+    Hyperbole
+    Fate
+    Free will
+    Dichotomy
+    Hubris
+    Nemesis
+
 ---
 ### Starting with Act 1 Scene 2, how far does Shakespeare present Macbeth as a brave character?
 
@@ -229,4 +248,110 @@ V. Conclusion
     Summarize the main points of the essay
     Reiterate the thesis that Shakespeare presents Macbeth's ambition as a corrupting influence
     Discuss the relevance of this theme in contemporary society and how it can be applied to real-life situations.
+---
 
+### Starting with Act 3 Scene 4, lines 93 to 107 and considering the entire play, to what extent does Shakespeare present Macbeth as remorseful for his actions?
+
+I. Introduction
+
+    Introduce the topic of the essay, including the play Macbeth and the specific scene and lines being analyzed (Act 3 Scene 4, lines 93-107)
+    Provide background information about Macbeth's actions leading up to this scene and his overall character
+    State the thesis that Shakespeare presents Macbeth as remorseful for his actions to a certain extent throughout the play, but also shows how his guilt is ultimately overshadowed by his ambition and desire for power
+
+II. Body Paragraph 1
+
+    In Act 3 Scene 4, Macbeth's conscience is clearly troubled by his actions as he encounters the ghost of Banquo during the feast. When he sees the ghost, he exclaims "Avaunt and quit my sight! Let the earth hide thee!" (3.4.92-93), showing his fear and guilt. This encounter with Banquo's ghost is not only a reminder of his heinous crime but also demonstrates Macbeth's mental state as his ambition has taken control of him. He is seeing things that are not there, which emphasizes the corrupting influence of his ambition on his mind. The scene also demonstrates that Macbeth's sense of guilt has become unbearable, leading him to crack under the weight of his conscience. The ghost symbolizes the guilt that Macbeth carries with him and it is a clear indication that his ambition has corrupted him beyond redemption.
+    Use high-level vocabulary and specific examples to convey the complexity of Macbeth's emotions and the depth of his guilt
+
+III. Body Paragraph 2
+
+    Shift focus to the ways in which Shakespeare portrays Macbeth's ambition as a driving force that overwhelms his sense of remorse and guilt
+    Use quotes and analysis to show how Macbeth's desire for power and recognition blinds him to the consequences of his actions, such as when he says, "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on the other"
+    Provide additional evidence from other parts of the play where Macbeth's ambition takes priority over his conscience, such as his decision to kill Banquo and attempt to kill Fleance in Act 3 Scene 3
+    Use contextual links, such as the idea of kingship and the divine right of monarchs, to show how Macbeth's ambition reflects larger societal concerns of Shakespeare's time
+
+IV. Body Paragraph 3
+
+    Return to the question of Macbeth's remorse and guilt and consider how these emotions evolve over the course of the play
+    Use quotes and analysis to show how Macbeth's sense of remorse and guilt becomes more muted as his ambition takes over, such as when he says, "I 'gin to be aweary of the sun" in Act 5 Scene 5
+    Provide additional evidence from other parts of the play where Macbeth's guilt seems to diminish, such as his lack of concern over Lady Macbeth's death in Act 5 Scene 5
+    Use high-level vocabulary and specific examples to convey the tragic nature of Macbeth's downfall and the ways in which his remorse and guilt are ultimately inadequate to save him from his fate
+
+V. Conclusion
+
+    Summarize the main points of the essay, including the thesis that Shakespeare presents Macbeth as remorseful for his actions to a certain extent throughout the play, but also shows how his guilt is ultimately overshadowed by his ambition and desire for power
+    Provide a final analysis of the significance of this theme in the play, and consider how it reflects larger societal concerns and human nature in general
+    Use high-level vocabulary and a memorable closing statement to leave a lasting impression on the reader.
+
+---
+
+### Starting with Act 4 Scene 1, when Macbeth visits the witches again for further information (lines 49-61) and considering the entire play, to what extent does Shakespeare present Macbeth as in control of his own fate?
+I. Introduction
+
+    Briefly introduce the play and its context (i.e. when and where it was written, the main themes and characters)
+    Present the question and provide a brief overview of how you will answer it
+    Thesis statement: Although Macbeth believes that he is in control of his own fate, Shakespeare presents him as being ultimately controlled by his ambition and the supernatural forces at play in the play.
+
+II. Macbeth's encounter with the witches in Act 4 Scene 1
+
+    Provide a brief summary of the extract and its context within the play
+    Thesis statement: In this extract, Macbeth appears to be in control of his own fate as he seeks out the witches for further information. However, the witches' prophesies and their supernatural powers ultimately undermine Macbeth's sense of control.
+    Evidence: "How now, you secret, black, and midnight hags! What is't you do?" (line 49). "I conjure you, by that which you profess, howe'er you come to know it, answer me" (lines 50-51). "Then live, Macduff. What need I fear of thee?" (lines 81-82).
+    Analysis: Macbeth's language and tone in this scene suggest that he is confident and in control. He demands answers from the witches and appears to be unafraid of any potential consequences. However, the witches' prophesies, particularly the one about Birnam Wood coming to Dunsinane, suggest that Macbeth's fate is already predetermined, and his actions will ultimately lead to his downfall.
+
+III. Macbeth's sense of control throughout the play
+
+    Thesis statement: Throughout the play, Macbeth's belief in his own agency and control over his fate is repeatedly undermined by his ambition, guilt, and the supernatural forces at work in the play.
+    Evidence: "I have no spur / To prick the sides of my intent, but only / Vaulting ambition" (Act 1 Scene 7, lines 25-27). "I am in blood / Stepped in so far that, should I wade no more, / Returning were as tedious as go o'er" (Act 3 Scene 4, lines 136-138). "Out, damned spot! Out, I say!" (Act 5 Scene 1, line 25).
+    Analysis: Macbeth's ambition drives him to commit increasingly heinous acts throughout the play, ultimately leading to his downfall. Despite his initial reluctance to kill Duncan, he is eventually swayed by his wife's ambition and the prophesies of the witches. His guilt and hallucinations later in the play suggest that he is not in control of his own fate, as his conscience is plagued by the consequences of his actions.
+
+IV. Other characters' influences
+
+    Analyze how Shakespeare uses other characters to emphasize the idea that Macbeth is not in control of his own fate, such as the prophecies of the witches and the manipulations of Lady Macbeth
+    Use quotes to illustrate the characters' beliefs about fate and free will, such as "All hail, Macbeth, hail to thee, Thane of Cawdor! / All hail, Macbeth, that shalt be king hereafter!" (Act 1, Scene 3, lines 48-49)
+    Analyze how Shakespeare uses these beliefs to develop the theme of fate versus free will throughout the play
+    Discuss the significance of the play's conclusion in terms of the idea of fate versus free will
+
+V. Conclusion
+
+    Summarize the main points made in the essay
+    Restate the thesis and provide a final analysis of how Shakespeare presents Macbeth's sense of control over his own fate in the play
+    Consider the broader implications of the play's themes and the contextual links that can be made to the time period in which it was written.
+
+---
+
+###  Starting with Act 5 Scene 3, when Macbeth discusses the reasons for his confidence in battle (lines 1-18) and considering the entire play, what does Shakespeare suggest are the reasons for Macbeth's downfall?
+
+I. Introduction:
+
+    Introduce the play Macbeth and give context to Act 5 Scene 3.
+    Provide a brief overview of Macbeth's character and how it changes throughout the play.
+    Thesis statement: Shakespeare suggests that Macbeth's downfall is a result of his ambition, his reliance on the supernatural, and his inability to control his own fate.
+
+II. Macbeth's confidence in battle and his downfall
+
+    Begin with the extract given, Act 5 Scene 3, lines 1-18, where Macbeth discusses his confidence in battle.
+    Analyze Macbeth's language and tone, specifically his use of metaphors and hyperbole.
+    Connect Macbeth's confidence in battle to his earlier behavior in the play, such as his willingness to kill Duncan to gain power.
+    Thesis statement: Macbeth's confidence in battle is a result of his ambition and desire for power, which ultimately leads to his downfall.
+
+III. Macbeth's reliance on the supernatural and his downfall
+
+    Discuss Macbeth's interaction with the supernatural throughout the play, including the witches and the apparitions.
+    Analyze the effect of the supernatural on Macbeth's psyche, such as his increasing paranoia and guilt.
+    Connect Macbeth's reliance on the supernatural to his downfall, specifically his decision to seek out the witches' prophecies and his subsequent descent into madness.
+    Thesis statement: Macbeth's reliance on the supernatural is a result of his inability to control his own fate, which ultimately leads to his downfall.
+
+IV. Macbeth's inability to control his own fate and his downfall
+
+    Analyze Macbeth's behavior throughout the play, including his increasing isolation and his descent into madness.
+    Discuss Macbeth's inability to control his own fate, specifically his failed attempts to prevent the fulfillment of the witches' prophecies.
+    Connect Macbeth's inability to control his own fate to his downfall, specifically his ultimate defeat and death at the hands of Macduff.
+    Thesis statement: Macbeth's inability to control his own fate is a result of his tragic flaw, which ultimately leads to his downfall.
+
+V. Conclusion:
+
+    Summarize the main points made in the essay, specifically the three reasons for Macbeth's downfall: his ambition, his reliance on the supernatural, and his inability to control his own fate.
+    Connect these reasons to the larger themes of the play, such as power, fate, and free will.
+    Restate the thesis statement in a new way to provide a sense of closure to the essay.Example high level vocabulary:
+    End with a thought-provoking statement that encourages the reader to consider the deeper meaning of the play.
