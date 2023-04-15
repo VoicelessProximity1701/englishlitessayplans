@@ -719,37 +719,82 @@ IV. Paragraph 3: The relationship between Lady Macbeth and Macbeth
 
 ---
 
-### Starting with Act 2 Scene 2, when Lady Macbeth and Macbeth are dealing with the aftermath of Duncan's murder (lines 55-72) and considering the entire play, how does Shakespeare present ideas about gender? 
+### Starting with Act 2 Scene 2, when Lady Macbeth and Macbeth are dealing with the aftermath of Duncan's murder (lines 55-72) and considering the entire play, how does Shakespeare present the motif of blood? 
 
 I. Introduction
 
-    Provide background information about Act 2 Scene 2 and its importance in the play.
-    Introduce the idea of gender roles and how they are presented in the scene and throughout the play.
-    Thesis statement: In Act 2 Scene 2 of Macbeth, Shakespeare uses language and imagery to subvert traditional gender roles and highlight the destructive consequences of gender expectations.
+    Briefly introduce the motif of blood in Macbeth and its significance to the play.
+    State the focus of the essay, which is to analyze how Shakespeare presents the motif of blood starting from Act 2 Scene 2 and throughout the entire play.
+    Include contextual links, such as the belief in the divine right of kings during Shakespeare's time and how it relates to the theme of blood.
 
-II. Body Paragraph 1
+II. Blood as a Symbol of Guilt and Remorse
 
-    Focus on Lady Macbeth's character in the scene and how she challenges traditional gender roles.
-    Provide quotes from the scene, such as "Had he not resembled / My father as he slept, I had done't" (ll. 12-13), and analyze how they subvert traditional expectations of women as weak and submissive.
-    Provide contextual links to the gender expectations of women in the Elizabethan era, highlighting how Lady Macbeth's actions would have been seen as shocking and subversive.
-    Lady Macbeth subverts traditional gender roles and presents a powerful, assertive female character who defies expectations and challenges the patriarchal society of the time.
+    Thesis statement: In Macbeth, Shakespeare uses the motif of blood to symbolize guilt and remorse, particularly in the aftermath of Duncan's murder.
+    Provide a close analysis of the dialogue between Lady Macbeth and Macbeth in Act 2 Scene 2, where they discuss their blood-stained hands and their overwhelming guilt.
+    Include quotes, such as "Will all great Neptune's ocean wash this blood clean from my hand?" and "Here's the smell of the blood still. All the perfumes of Arabia will not sweeten this little hand."
+    Analyze the language and imagery used in the quotes and explain how they contribute to the motif of blood as a symbol of guilt and remorse.
+    Provide contextual links, such as the belief in the sinfulness of murder during Shakespeare's time, and how this reinforces the symbolism of blood as a manifestation of guilt.
 
-III. Body Paragraph 2
+III. Blood as a Symbol of Ambition and Violence
 
-    Focus on Macbeth's character in the scene and how his actions and language are influenced by gender expectations.
-    Provide quotes from the scene, such as "I'll go no more: / I am afraid to think what I have done" (ll. 50-51), and analyze how they reveal Macbeth's fear and insecurity, which are often associated with femininity.
-    Provide contextual links to the gender expectations of men in the Elizabethan era, highlighting how Macbeth's reluctance to continue with the murder would have been seen as a failure to live up to traditional male ideals.
-    Macbeth's fear and hesitation demonstrate how traditional gender roles can be damaging to both men and women, perpetuating harmful stereotypes and limiting individual freedom.
+    Thesis statement: Shakespeare also uses the motif of blood to symbolize the destructive effects of ambition and violence.
+    Provide a close analysis of the imagery of blood in Act 3 Scene 4, where Macbeth sees the ghost of Banquo covered in blood.
+    Include quotes, such as "Thou canst not say I did it; never shake/ Thy gory locks at me." and "Blood hath been shed ere now, i' the olden time,/ Ere human statute purged the gentle weal."
+    Analyze the language and imagery used in the quotes and explain how they contribute to the motif of blood as a symbol of ambition and violence.
+    Provide contextual links, such as the belief in the divine right of kings and how it relates to the violence and ambition of Macbeth's character.
 
-IV. Body Paragraph 3
+IV. Blood as a Symbol of Fate and Prophecy
 
-    Focus on the consequences of gender expectations and how they contribute to the tragic outcome of the play.
-    Provide quotes from later in the play, such as "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on th' other" (ll. 25-28), and analyze how they reveal the destructive consequences of gender expectations and the pursuit of power.
-    Provide contextual links to the historical context of the play, highlighting the link between gender and power in Elizabethan society and how it is reflected in the play.
-    Macbeth ultimately shows how the rigid gender expectations of the time can lead to tragic outcomes, with characters becoming trapped by their own desire for power and recognition, regardless of the cost.
+    Thesis statement: Finally, Shakespeare uses the motif of blood to symbolize fate and prophecy in Macbeth.
+    Provide a close analysis of the dialogue between Macbeth and Lady Macbeth in Act 5 Scene 1, where Lady Macbeth sleepwalks and imagines bloodstains on her hands.
+    Include quotes, such as "Out, damned spot! Out, I say!" and "The Thane of Fife had a wife. Where is she now? What, will these hands ne'er be clean?"
+    Analyze the language and imagery used in the quotes and explain how they contribute to the motif of blood as a symbol of fate and prophecy.
+    Provide contextual links, such as the role of witches in the play and their prophecies about Macbeth's fate.
 
 V. Conclusion
 
-    Summarize the main points made in the essay about Shakespeare's presentation of gender roles in Macbeth.
-    Restate the thesis and provide a final analysis of the importance of the topic in the play and its continued relevance today.
-    Shakespeare's exploration of gender in Macbeth is both subtle and powerful, highlighting the complexities of human nature and the destructive impact of social expectations.
+    Summarize the main points of the essay, including how Shakespeare uses the motif of blood to convey multiple meanings throughout the play.
+    Reiterate the significance of the contextual links in understanding the symbolism of blood in Macbeth.
+    Provide a final thought or reflection on the significance of the motif of blood in the play.
+
+---
+
+### Starting with Act 1 Scene 7, when Macbeth weighs up the reasons for and against killing Duncan (lines 1-28) and considering the entire play, how does Shakespeare present Macbeth's sense of morality?
+
+I. Introduction
+
+    Briefly introduce the extract from Act 1 Scene 7 and the broader context of the play
+    Introduce the main focus of the essay, which is to analyze how Shakespeare presents Macbeth's sense of morality
+    State the thesis statement that will guide the essay
+
+II. Macbeth's moral dilemma in Act 1 Scene 7
+
+    Thesis statement: In Act 1 Scene 7, Shakespeare depicts Macbeth as conflicted between his ambition and his sense of morality, shown through his use of language and metaphors.
+    First quote and analysis: "Vaulting ambition, which o'erleaps itself / And falls on th'other" (1.7.27-28). Macbeth acknowledges that his ambition to become king will ultimately lead to his downfall, yet he is still drawn to it. The metaphor of "vaulting ambition" shows the dangerous and reckless nature of his desire.
+     Second quote and analysis: "I have no spur / To prick the sides of my intent, but only / Vaulting ambition" (1.7.25-27). Macbeth admits that he has no real justification for killing Duncan other than his own ambition. The phrase "spur to prick the sides" suggests a lack of motivation or reason, highlighting the immorality of his actions.
+
+III. The evolution of Macbeth's moral compass throughout the play
+
+    Trace Macbeth's changing attitude towards murder and guilt throughout the play, citing key moments such as the killing of Banquo and the sleepwalking scene
+    Analyze how Shakespeare uses symbolism and imagery related to darkness and blood to convey Macbeth's descent into moral darkness
+    Argue that Macbeth's moral decline is a central theme of the play, and that Shakespeare presents it as a cautionary tale about the dangers of unchecked ambition
+    Discuss Macbeth's eventual decision to kill Duncan and his subsequent actions that showcase his loss of moral compass.
+    Provide two quotes from the text to support the analysis, such as "I am in blood / Stepped in so far that, should I wade no more, / Returning were as tedious as go o'er" (Act 3, Scene 4, Lines 136-138).
+    Analyze how Shakespeare uses the motif of blood to represent the guilt and corruption that Macbeth experiences, as well as the idea that his actions have disrupted the natural order of things.
+
+IV. The role of Lady Macbeth in shaping Macbeth's moral choices
+
+    Analyze the relationship between Macbeth and Lady Macbeth, focusing on Lady Macbeth's influence on Macbeth's decision to kill Duncan
+    Consider the gender dynamics at play in the portrayal of Lady Macbeth as a powerful and manipulative figure
+    Argue that Lady Macbeth's actions reveal the corrupting influence of power, and that Shakespeare uses her character to further develop the play's themes of ambition and morality
+    Thesis statement: Shakespeare presents the influence of Lady Macbeth and the witches on Macbeth's sense of morality, as they encourage his ambition and disregard for morality.
+    First quote and analysis: "When you durst do it, then you were a man" (1.7.49). Lady Macbeth manipulates Macbeth's sense of masculinity and bravery, urging him to commit the murder. The use of the word "durst" implies a challenge to Macbeth's courage, while the phrase "you were a man" suggests that he will only be seen as a true man if he carries out the act.
+    Second quote and analysis: "All hail, Macbeth, hail to thee, Thane of Cawdor!... / Lesser than Macbeth, and greater" (1.3.48-51). The witches' prophesies play on Macbeth's ambition, as he becomes obsessed with fulfilling their predictions. The oxymoronic phrase "lesser than Macbeth, and greater" confuses and intrigues Macbeth, leading him to pursue his ambition at any cost.
+
+V. Conclusion
+
+    Summarize the main points of the essay, including the complex portrayal of Macbeth's sense of morality, the evolution of his moral compass throughout the play, and the role of Lady Macbeth in shaping his choices
+    Restate the thesis statement and the broader implications of the essay's argument
+    Provide a final reflection on the relevance of Macbeth's moral dilemma to contemporary audiences, and the enduring power of Shakespeare's exploration of this theme.
+
+---
