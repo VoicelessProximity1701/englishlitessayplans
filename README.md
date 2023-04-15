@@ -642,3 +642,114 @@ V. Conclusion
     Final thoughts on the significance of the conversation between the old man and Ross in Act 2 Scene 4.
 
 ---
+
+### Starting with Act 1 Scene 6, when Duncan and Banquo are discussing the appearance of Macbeth's castle (lines 1-21) and considering the entire play, how does Shakespeare present ideas about duality?
+
+I. Introduction
+
+    Provide brief context of Act 1 Scene 6, where Duncan and Banquo are discussing the appearance of Macbeth's castle
+    Thesis statement: Through the use of language, symbolism and characters, Shakespeare presents the theme of duality in Macbeth, where characters and situations are portrayed as both good and evil simultaneously.
+
+II. Extract analysis
+
+    Provide a detailed analysis of Act 1 Scene 6, where Duncan and Banquo arrive at Macbeth's castle and comment on its pleasant appearance
+    Quote 1: "This castle hath a pleasant seat. The air Nimbly and sweetly recommends itself Unto our gentle senses" (lines 1-3)
+    Quote 2: "There’s husbandry in heaven; / Their candles are all out" (lines 5-6)
+    Analysis: The description of Macbeth's castle as having a "pleasant seat" with a pleasant atmosphere is contrasted with Banquo's ominous statement about the "candles" of heaven being out. This foreshadows the duality present in the play, where seemingly good situations are juxtaposed with ominous events.
+
+III. Presentation of duality throughout the play
+
+    Provide evidence from different parts of the play where the theme of duality is presented
+    Quote 1: "Fair is foul and foul is fair" (Act 1 Scene 1, line 10)
+    Quote 2: "And nothing is But what is not" (Act 1 Scene 3, line 139-140)
+    Analysis: The famous paradoxical quote "fair is foul and foul is fair" highlights the theme of duality present in the play, where appearances can be deceiving. This is further emphasized in Act 1 Scene 3, where the witches manipulate Macbeth's perception of reality by using paradoxical language.
+
+IV. The effect of Shakespeare's presentation of duality
+
+    Analyze the effect of the theme of duality on the audience
+    Quote 1: "By the pricking of my thumbs, / Something wicked this way comes" (Act 4 Scene 1, lines 44-45)
+    Quote 2: "Out, damned spot! out, I say!" (Act 5 Scene 1, line 30)
+    Analysis: The theme of duality creates a sense of unease and suspense for the audience, as they are constantly questioning the morality of the characters and the situations presented. This is exemplified by Lady Macbeth's descent into madness in Act 5, as she grapples with the guilt of her actions.
+
+V. Conclusion
+
+    Recap of thesis statement and main points
+    Overall analysis of how Shakespeare's use of duality contributes to the play's themes and message
+    Final thoughts on the relevance of the theme of duality in modern society
+
+---
+
+### Starting with Act 1 Scene 5, when Lady Macbeth reveals her desire for power (lines 37-53) and considering the entire play, how does Shakespeare present ideas about gender?
+
+I. Introduction
+
+    Introduce the play and the given extract, Act 1 Scene 5, lines 37-53
+    Thesis statement: Shakespeare presents ideas about gender through Lady Macbeth's desire for power, which challenges traditional gender roles and highlights the societal expectations of women during the Elizabethan era
+
+II. Paragraph 1: Lady Macbeth's desire for power
+
+    Begin with the quote: "Come, you spirits / That tend on mortal thoughts, unsex me here" (Act 1 Scene 5, lines 39-40)
+    Analysis: Lady Macbeth's desire to be "unsexed" highlights her desire to break free from societal expectations of femininity and embrace a more masculine role
+    Provide contextual link to Queen Elizabeth I, who was often seen as a powerful female leader and a deviation from traditional gender roles of the time
+    Continue with the quote: "Come to my woman's breasts, / And take my milk for gall" (Act 1 Scene 5, lines 47-48)
+    Analysis: Lady Macbeth's reference to her "woman's breasts" and "milk" shows the societal expectation for women to be nurturing and maternal, while she rejects these traditional gender roles in favor of power
+    Link this to the broader theme of gender roles throughout the play
+
+III. Paragraph 2: Macbeth's struggle with masculinity
+
+    Begin with the quote: "I dare do all that may become a man; / Who dares do more is none" (Act 1 Scene 7, lines 45-46)
+    Analysis: Macbeth's words reveal his own struggle with the societal expectations of masculinity and how this ties in with his desire for power
+    Provide contextual link to King James I, who was known for his interest in masculine pursuits such as hunting and war, and how this may have influenced Shakespeare's portrayal of masculinity in the play
+    Continue with the quote: "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself" (Act 1 Scene 7, lines 25-28)
+    Analysis: Macbeth's ambition, which is traditionally seen as a masculine trait, is ultimately what drives him to commit murder and gain power
+    Link this to the broader theme of power and the consequences of ambition throughout the play
+
+IV. Paragraph 3: The relationship between Lady Macbeth and Macbeth
+
+    Begin with the quote: "When you durst do it, then you were a man" (Act 1 Scene 7, line 49)
+    Analysis: Lady Macbeth's words reveal her manipulation of Macbeth's masculinity and her desire for power through him
+    Provide contextual link to the societal expectations of marriage during the Elizabethan era and how this influenced gender roles within relationships
+    Continue with the quote: "I have given suck, and know / How tender 'tis to love the babe that milks me: / I would, while it was smiling in my face, / Have pluck'd my nipple from his boneless gums, / And dash'd the brains out, had I so sworn as you / Have done to this" (Act 1 Scene 7, lines 54-59)
+    Analysis: Lady Macbeth's reference to infanticide shows the extent of her desire for power and how she is willing to reject societal expectations of motherhood and femininity
+    Link this to the broader theme of gender roles and power dynamics within relationships throughout the play
+
+    Summarize your main points
+    Restate your thesis statement
+    Conclude with a final thought on the significance of Shakespeare's portrayal of gender in Macbeth.
+
+---
+
+### Starting with Act 2 Scene 2, when Lady Macbeth and Macbeth are dealing with the aftermath of Duncan's murder (lines 55-72) and considering the entire play, how does Shakespeare present ideas about gender? 
+
+I. Introduction
+
+    Provide background information about Act 2 Scene 2 and its importance in the play.
+    Introduce the idea of gender roles and how they are presented in the scene and throughout the play.
+    Thesis statement: In Act 2 Scene 2 of Macbeth, Shakespeare uses language and imagery to subvert traditional gender roles and highlight the destructive consequences of gender expectations.
+
+II. Body Paragraph 1
+
+    Focus on Lady Macbeth's character in the scene and how she challenges traditional gender roles.
+    Provide quotes from the scene, such as "Had he not resembled / My father as he slept, I had done't" (ll. 12-13), and analyze how they subvert traditional expectations of women as weak and submissive.
+    Provide contextual links to the gender expectations of women in the Elizabethan era, highlighting how Lady Macbeth's actions would have been seen as shocking and subversive.
+    Lady Macbeth subverts traditional gender roles and presents a powerful, assertive female character who defies expectations and challenges the patriarchal society of the time.
+
+III. Body Paragraph 2
+
+    Focus on Macbeth's character in the scene and how his actions and language are influenced by gender expectations.
+    Provide quotes from the scene, such as "I'll go no more: / I am afraid to think what I have done" (ll. 50-51), and analyze how they reveal Macbeth's fear and insecurity, which are often associated with femininity.
+    Provide contextual links to the gender expectations of men in the Elizabethan era, highlighting how Macbeth's reluctance to continue with the murder would have been seen as a failure to live up to traditional male ideals.
+    Macbeth's fear and hesitation demonstrate how traditional gender roles can be damaging to both men and women, perpetuating harmful stereotypes and limiting individual freedom.
+
+IV. Body Paragraph 3
+
+    Focus on the consequences of gender expectations and how they contribute to the tragic outcome of the play.
+    Provide quotes from later in the play, such as "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on th' other" (ll. 25-28), and analyze how they reveal the destructive consequences of gender expectations and the pursuit of power.
+    Provide contextual links to the historical context of the play, highlighting the link between gender and power in Elizabethan society and how it is reflected in the play.
+    Macbeth ultimately shows how the rigid gender expectations of the time can lead to tragic outcomes, with characters becoming trapped by their own desire for power and recognition, regardless of the cost.
+
+V. Conclusion
+
+    Summarize the main points made in the essay about Shakespeare's presentation of gender roles in Macbeth.
+    Restate the thesis and provide a final analysis of the importance of the topic in the play and its continued relevance today.
+    Shakespeare's exploration of gender in Macbeth is both subtle and powerful, highlighting the complexities of human nature and the destructive impact of social expectations.
