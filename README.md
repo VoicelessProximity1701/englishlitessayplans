@@ -406,3 +406,239 @@ Conclusion:
     Connect these portrayals to the larger themes of the play, such as power, gender, and morality.
     Restate the thesis statement in a new way to provide a sense of closure to the essay.
     End with a thought-provoking statement that encourages the reader to consider the deeper meaning of Lady Macbeth's character.
+
+---
+
+### Starting with Act 4 Scene 3, when Macduff is grieving Scotland after Malcolm pretends to be immoral (lines 100-117) and considering the entire play, how does Shakespeare present Macduff?
+
+Introduction:
+
+    Introduce the play Macbeth and give context to Act 4 Scene 3.
+    Provide a brief overview of Macduff's character and his role in the play.
+    Thesis statement: Shakespeare presents Macduff as a loyal and determined character who embodies the ideals of justice, honor, and patriotism.
+
+I. Macduff's grief for Scotland
+
+    Begin with the extract given, Act 4 Scene 3, lines 100-117, where Macduff expresses his grief for Scotland after hearing of Malcolm's supposed immorality.
+    Analyze Macduff's language and tone, specifically his use of imagery and hyperbole.
+    Connect Macduff's grief for Scotland to his later actions in the play, such as his determination to overthrow Macbeth and restore order to Scotland.
+    Thesis statement: Macduff's grief for Scotland is a demonstration of his deep sense of patriotism and his commitment to the well-being of his country.
+
+II. Macduff's loyalty and determination
+
+    Discuss Macduff's unwavering loyalty to Scotland and his determination to overthrow Macbeth, as demonstrated in his conversations with Malcolm and Ross throughout the play.
+    Analyze Macduff's language and tone, specifically his use of strong verbs and metaphors.
+    Connect Macduff's loyalty and determination to his portrayal as a heroic figure who is willing to sacrifice his own safety for the good of his country.
+    Thesis statement: Macduff's loyalty and determination are demonstrations of his heroic qualities and his commitment to justice and honor.
+
+III. Macduff's symbolic importance
+
+    Analyze Macduff's symbolic importance in the play, specifically his role as the embodiment of the rightful king and the defender of Scotland.
+    Discuss Macduff's connection to the themes of justice, honor, and patriotism, and how his character serves to underscore the importance of these ideals in the play.
+    Connect Macduff's symbolic importance to the larger themes of the play, such as the corrupting influence of power and the consequences of unchecked ambition.
+    Thesis statement: Macduff's symbolic importance in the play serves to reinforce the play's themes and underscore the importance of justice, honor, and patriotism.
+
+Conclusion:
+
+    Summarize the main points made in the essay, specifically the ways in which Macduff is presented as a loyal and determined character who embodies the ideals of justice, honor, and patriotism.
+    Connect these portrayals to the larger themes of the play, such as the corrupting influence of power and the consequences of unchecked ambition.
+    Restate the thesis statement in a new way to provide a sense of closure to the essay.
+    End with a thought-provoking statement that encourages the reader to consider the importance of Macduff's character in the play.
+
+---
+### Starting with Act 2 Scene 1, when Banquo confirms his allegiance to King Duncan (lines 12-29) and considering the entire play, thow does Shakespeare present Banquo as a loyal character?
+
+Introduction:
+
+    Brief background of the extract and its significance in the play.
+    Thesis statement: Shakespeare presents Banquo as a loyal character through his actions and language, which is emphasized through his relationship with King Duncan and Macbeth.
+
+I. In Act 2 Scene 1, Banquo demonstrates his unwavering loyalty to King Duncan by confirming his allegiance in lines 12-29.
+
+    Thesis statement: Shakespeare portrays Banquo as a loyal character through his unwavering allegiance to King Duncan.
+    Quote: "The service and the loyalty I owe, / In doing it, pays itself" (lines 23-24).
+    Analysis: Banquo acknowledges that his duty to serve and be loyal to the King is a debt that he must repay, suggesting that he views his loyalty as a moral obligation rather than a choice.
+    Quote: "I'll keep my bosom franchised and allegiance clear" (lines 26-27).
+    Analysis: Banquo promises to keep his heart free of deceit and his loyalty to the King unquestionable. By using the word "franchised," Banquo implies that he believes his loyalty is a symbol of his freedom and integrity.
+
+II. Throughout the play, Shakespeare continues to portray Banquo as a loyal character, even in the face of temptation and danger.
+
+    Thesis statement: Shakespeare consistently portrays Banquo as a character of unyielding loyalty, despite the various temptations and dangers he faces.
+    Quote: "But hush! no more" (Act 1, Scene 3, line 60).
+    Analysis: Banquo's response to the Witches' prophecy suggests that he is hesitant to entertain thoughts of betrayal or disloyalty, even in the face of temptation.
+    Quote: "Thou hast it now: King, Cawdor, Glamis, all, / As the weird women promised, and I fear / Thou play'dst most foully for't" (Act 3, Scene 1, lines 1-3).
+    Analysis: Banquo expresses his suspicion that Macbeth has cheated to obtain his newfound power, but he does not act on this suspicion. This demonstrates his unwavering loyalty to the King and his reluctance to challenge Macbeth's authority.
+
+III. Banquo's loyalty ultimately leads to his tragic fate, as he is murdered by Macbeth in order to protect his own power.
+
+    Thesis statement: Banquo's loyalty ultimately leads to his downfall, as he is murdered by Macbeth in order to protect his own power.
+    Quote: "O, treachery! Fly, good Fleance, fly, fly, fly! / Thou mayst revenge - O slave!" (Act 3, Scene 3, lines 16-17).
+    Analysis: Banquo's dying words demonstrate his commitment to revenge against his murderer, suggesting that even in death he remains loyal to the King and determined to fight against treachery and betrayal.
+    Quote: "The table's full" (Act 3, Scene 4, line 48).
+    Analysis: Banquo's ghostly appearance at the banquet is a symbolic reminder of Macbeth's guilt and treachery, and serves as a warning to Macbeth of the consequences of his actions.
+    Quote: "What, you egg! / [He stabs him]" (Act 4, Scene 2, lines 80-81).
+    Analysis: Macbeth's decision to have Banquo killed demonstrates his fear of Banquo's loyalty and the threat he poses to Macbeth's power. Banquo's death is a tragic result of his unyielding loyalty to the King and his unwillingness to betray him, even in the face of danger.
+
+Conclusion:
+
+    Recap of thesis statement.
+    Summary of main points.
+    Final analysis: Banquo's unwavering loyalty towards King Duncan and Macbeth serves as a foil to Macbeth's treachery, and ultimately highlights the themes of loyalty and betrayal in the play. Shakespeare uses Banquo's language, actions, and even his ghost to emphasize his loyalty, cementing him as a character of great importance in the play.
+
+---
+### Starting with Act 1 Scene 3, when the witches provide Macbeth with prophecies about his future (lines 36-59) and considering the entire play, how does Shakespeare present the witches as powerful forces?
+
+Introduction:
+
+    Introduce the topic and the focus on the witches' power in Macbeth
+    Briefly summarize Act 1 Scene 3 and the prophecies they give to Macbeth
+    Provide context about the beliefs surrounding witches during the time Shakespeare wrote the play
+    State the thesis: Shakespeare presents the witches as powerful forces through their language and actions, which both influence and reflect the characters' decisions throughout the play
+
+I. In Act 1 Scene 3, Shakespeare presents the witches as powerful forces through their prophetic abilities and their control over the natural world.
+
+    Thesis statement: Shakespeare depicts the witches as powerful forces through their prophetic abilities and their ability to manipulate the natural world, showcasing their control over both the physical and metaphysical realm.
+    Quote 1: "All hail, Macbeth, hail to thee, Thane of Glamis! All hail, Macbeth, hail to thee, Thane of Cawdor! All hail, Macbeth, that shalt be king hereafter!" (1.3.49-51)
+    Analysis 1: By prophesizing Macbeth's future as Thane of Glamis, Thane of Cawdor, and future king, the witches demonstrate their ability to see beyond the present moment and into the future. This showcases their power and knowledge beyond what is humanly possible, elevating them as supernatural forces in the play.
+    Quote 2: "I'll give thee a wind." (1.3.6)
+    Analysis 2: By manipulating the natural world and controlling the wind, the witches demonstrate their control over both the physical and metaphysical realms. This display of power and control showcases their abilities as powerful forces, further elevating their supernatural status in the play.
+
+II. Throughout the play, Shakespeare presents the witches as powerful forces through their ability to manipulate and influence the actions of the characters.
+
+    Thesis statement: Shakespeare continues to present the witches as powerful forces through their ability to manipulate and influence the actions of the characters, showcasing their control over the fate and decisions of others.
+    Quote 1: "Thou shalt get kings, though thou be none" (1.3.68)
+    Analysis 1: Through this prophesy to Banquo, the witches manipulate his desires and plant the idea of his future offspring becoming kings. This manipulation showcases the witches' power over others, as they are able to influence the actions of characters without any physical force or direct confrontation.
+    Quote 2: "By the pricking of my thumbs, something wicked this way comes." (4.1.44-45)
+    Analysis 2: The witches' forewarning of Macbeth's arrival in Act 4 further showcases their power as supernatural forces. Their ability to sense his arrival before he appears on stage highlights their heightened senses and supernatural abilities, further elevating their status as powerful forces in the play.
+
+III. Shakespeare also presents the witches as powerful forces through their ability to evoke fear and uncertainty in the characters and audience.
+
+    Thesis statement: Shakespeare presents the witches as powerful forces through their ability to evoke fear and uncertainty in the characters and audience, showcasing their ability to create chaos and disruption through their mere presence.
+    Quote 1: "Fair is foul, and foul is fair." (1.1.11)
+    Analysis 1: The witches' famous line in Act 1 Scene 1 sets the tone for the entire play, highlighting the confusion and disorder that they bring with their presence. The inversion of the natural order and the blurring of lines between good and evil creates a sense of unease and uncertainty in both the characters and audience, further solidifying the witches' power as forces of chaos.
+    Quote 2: "Double, double toil and trouble; fire burn and cauldron bubble." (4.1.10-11)
+    Analysis 2: The witches' spell in Act 4 Scene 1 not only showcases their supernatural abilities, but also their ability to evoke fear and uncertainty through their actions. The ominous and cryptic nature of the spell creates a sense of unease in both the characters and the audience
+Conclusion
+
+    Summarize the main points of the essay
+    Restate the thesis in a new way
+    Emphasize the significance of the witches as powerful forces in the play and their impact on Macbeth's fate.
+
+---
+
+### Starting with Act 1 Scene 4, when Duncan is showing his gratitude to Macbeth for his service (lines 11-32) and considering the entire play, how does Shakespeare present Duncan as a good king? 
+
+Introduction:
+
+    Introduce the topic of the essay: the portrayal of King Duncan in Macbeth, starting with Act 1 Scene 4 when he is showing gratitude towards Macbeth
+    Provide contextual information about Shakespeare's intention to portray good and bad kingship
+    State the thesis: Shakespeare presents Duncan as a good king through his speeches and actions.
+
+I. In Act 1 Scene 4, Shakespeare presents Duncan as a good king through his graciousness towards Macbeth. He praises Macbeth for his bravery in battle, and offers him a reward for his service. This scene highlights Duncan's generosity and fairness, which are important qualities of a good king.
+
+    Quote 1: "We will establish our estate upon Our eldest, Malcolm, whom we name hereafter The Prince of Cumberland" (lines 25-27)
+    Analysis 1: Here, Duncan announces that he has named his son Malcolm as his heir, which shows his concern for his kingdom's future. He is also planning ahead, which is a sign of good leadership.
+    Quote 2: "Only I have left to say, More is thy due than more than all can pay" (line 23)
+    Analysis 2: This quote shows Duncan's appreciation for Macbeth's service, and his willingness to reward him accordingly. It also highlights his generosity, which is an important quality of a good king.
+
+II. Shakespeare further presents Duncan as a good king through his humility and ability to admit his mistakes. In Act 2 Scene 3, he acknowledges that he had wrongly placed his trust in the Thane of Cawdor, and expresses gratitude for Macbeth's loyalty.
+
+    Quote 1: "There's no art To find the mind's construction in the face" (lines 131-132)
+    Analysis 1: This quote shows Duncan's humility and self-awareness. He admits that he was wrong to trust the Thane of Cawdor, and acknowledges that it can be difficult to read people's true intentions.
+    Quote 2: "O worthiest cousin! The sin of my ingratitude even now Was heavy on me" (lines 37-39)
+    Analysis 2: Here, Duncan expresses his gratitude for Macbeth's loyalty and service, which shows that he values those who are faithful to him. This also highlights his ability to admit his mistakes, which is a sign of a good leader.
+
+III. Finally, Shakespeare presents Duncan as a good king through his sense of justice and fairness. In Act 1 Scene 6, he punishes the thane who betrayed him, showing that he will not tolerate disloyalty.
+
+    Quote 1: "And with his former title greet Macbeth" (line 15)
+    Analysis 1: This quote shows that Duncan is fair in his judgement. He rewards Macbeth for his loyalty by giving him the title that belonged to the traitor. This shows that he values those who are faithful to him, and punishes those who betray him.
+    Quote 2: "That trusted home Might yet enkindle you unto the crown" (lines 27-28)
+    Analysis 2: This quote shows that Duncan is aware of the potential for his own downfall, and is willing to take measures to prevent it. He is just and fair in his treatment of Macbeth, but also aware of the potential threat that he poses to the crown. This highlights his sense of justice and his commitment to maintaining order in his kingdom.
+
+Conclusion:
+
+    Summarize the key points from the body paragraphs
+    Restate the thesis statement
+    Emphasize how Shakespeare presents Duncan as a good king through his fair and compassionate leadership style.
+    Overall, Shakespeare presents Duncan as a good king through his generosity, humility, ability to admit his mistakes, and sense of justice and fairness. These qualities are important for a king to possess, and are necessary for maintaining stability and order in a kingdom.
+
+---
+
+### Starting with Act 4 Scene 3, when Malcolm is explaining why he pretended to be immoral to Macduff (lines 114-139) and considering the entire play, how does Shakespeare present Malcolm as a moral character? 
+
+I. Introduction
+
+    Provide some background information on the play and the characters of Macduff and Malcolm
+    Briefly summarize the extract from Act 4 Scene 3
+    Thesis statement: Throughout the play, Shakespeare presents Malcolm as a moral character through his words and actions, as well as his contrast with Macbeth.
+
+II. Body Paragraph 1
+
+    Thesis statement: Shakespeare portrays Malcolm as a moral character through his rejection of temptation and his loyalty to Scotland.
+    Quote 1: "I think our country sinks beneath the yoke; / It weeps, it bleeds, and each new day a gash / Is added to her wounds" (4.3.39-41).
+    Analysis 1: Malcolm's concern for Scotland's suffering shows his love for his country and his sense of duty to protect it from harm. This contrasts with Macbeth's selfish ambition and disregard for the wellbeing of Scotland.
+    Quote 2: "This tyrant, whose sole name blisters our tongues, / Was once thought honest" (4.3.18-19).
+    Analysis 2: Malcolm's reference to Macbeth as a "tyrant" highlights his rejection of immoral behavior and his belief in the importance of honesty and integrity.
+
+III. Body Paragraph 2
+
+    Thesis statement: Shakespeare further presents Malcolm as a moral character through his humility and willingness to learn from others.
+    Quote 1: "Fit to govern? / No, not to live. O nation miserable, / With an untitled tyrant bloody-sceptered, / When shalt thou see thy wholesome days again?" (4.3.101-104).
+    Analysis 1: Malcolm's admission of his own shortcomings and his recognition of the need for a strong leader shows his humility and his willingness to learn from others. This contrasts with Macbeth's arrogance and his belief in his own infallibility.
+    Quote 2: "But I have none: the king-becoming graces, / As justice, verity, temperance, stableness, / Bounty, perseverance, mercy, lowliness, / Devotion, patience, courage, fortitude, / I have no relish of them, but abound / In the division of each several crime, / Acting it many ways" (4.3.92-98).
+    Analysis 2: Malcolm's admission that he lacks certain virtues shows his self-awareness and his desire to improve himself. This further highlights his moral character and sets him apart from Macbeth.
+
+IV. Body Paragraph 3
+
+    Thesis statement: Finally, Shakespeare presents Malcolm as a moral character through his willingness to fight for what is right and his ultimate triumph over Macbeth.
+    Quote 1: "And bleeds anew, indeed I must be gone / And live, or stay and die" (4.3.168-169).
+    Analysis 1: Malcolm's resolve to fight for Scotland, even at the risk of his own life, shows his bravery and his commitment to doing what is right. This further emphasizes his moral character and his contrast with Macbeth's cowardice.
+    Quote 2: "Hail, King! for so thou art. Behold, where stands / The usurper's cursed head. The time is free" (5.8.66-67).
+    Analysis 2: Malcolm's triumph over Macbeth and his restoration of order to Scotland shows his success as a leader and his commitment to justice. This finalizes his portrayal as a moral character and reinforces his contrast with Macbeth's tyranny.
+
+V. Conclusion
+
+    Summarize the main points made in the essay, including the evidence used to support the thesis statement
+    Reiterate the importance of Malcolm's morality in the play and its larger thematic implications
+    Provide a final thought or statement that emphasizes the relevance of the play to modern audiences.
+
+---
+
+### Starting with Act 2 Scene 4, when an old man and Ross are discussing strange events that have taken place since the murder (lines 4 to 20) and considering the entire play, how does Shakespeare present ideas about order and disorder?
+
+I. Introduction
+
+    Brief overview of Act 2 Scene 4 and its significance in the play
+    Thesis statement: Through the conversation between the old man and Ross, Shakespeare presents the idea of order and disorder as the natural order is disrupted after the murder of King Duncan, highlighting the consequences of ambition and tyranny.
+
+II. Paragraph 1
+
+    Thesis statement: Shakespeare uses the conversation between the old man and Ross to highlight the disruption of the natural order and the resulting disorder.
+    Quote 1: "And yet dark night strangles the travelling lamp" (line 6)
+    Analysis: This quote emphasizes the disruption of the natural order, where darkness takes over light, symbolizing the chaos and disorder in the kingdom.
+    Quote 2: "A falcon, tow'ring in her pride of place, was by a mousing owl hawked at and killed" (lines 12-13)
+    Analysis: This quote highlights the idea that the natural order has been disrupted, where the predator (falcon) is killed by its prey (owl), symbolizing the downfall of those who were once in power.
+
+III. Paragraph 2
+
+    Thesis statement: Shakespeare uses the conversation between the old man and Ross to demonstrate how disorder leads to chaos and instability in the kingdom.
+    Quote 1: "Ah, good father, thou seest the heavens, as troubled with man's act, threaten his bloody stage" (lines 15-17)
+    Analysis: This quote shows the heavens reacting to the unnatural events happening on earth, which could be interpreted as an omen of the chaos and instability that is to come.
+    Quote 2: "And Duncan's horses - a thing most strange and certain - Beauteous and swift, the minions of their race, turned wild in nature, broke their stalls, flung out, contending 'gainst obedience" (lines 20-24)
+    Analysis: This quote further emphasizes the disruption of the natural order, where even the horses - loyal and obedient creatures - have turned wild and disobedient, symbolizing the chaos and instability that has spread throughout the kingdom.
+
+IV. Paragraph 3
+
+    Thesis statement: Shakespeare uses the conversation between the old man and Ross to convey the idea that the disruption of the natural order ultimately leads to the downfall of those who try to manipulate it.
+    Quote 1: "Thou seest, the heavens, as troubled with man's act" (line 16)
+    Analysis: This quote implies that the heavens are aware of the unnatural events happening on earth, and that there will be consequences for those who try to disrupt the natural order.
+    Quote 2: "All things foul would wear the brows of grace, Yet grace must still look so" (lines 24-25)
+    Analysis: This quote suggests that those who try to hide their evil deeds under a guise of goodness will eventually be exposed and punished, as the natural order will eventually be restored.
+
+V. Conclusion
+
+    Restate thesis statement
+    Recap key points discussed in the essay
+    Final thoughts on the significance of the conversation between the old man and Ross in Act 2 Scene 4.
+
+---
